@@ -1,0 +1,1754 @@
+[
+ {
+      "question": "Care este capitala României?",
+      "options": ["Sofia", "Budapesta", "București", "Belgrad"],
+      "correct_answer": 2,
+      "explanation": "București este capitala și cel mai mare oraș al României.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a avut loc Revoluția Română?",
+      "options": ["1987", "1989", "1991", "1993"],
+      "correct_answer": 1,
+      "explanation": "Revoluția Română a avut loc în decembrie 1989, ducând la căderea regimului comunist.",
+      "category": "istorie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a scris romanul 'Ion'?",
+      "options": ["Mihail Sadoveanu", "Liviu Rebreanu", "Marin Preda", "Camil Petrescu"],
+      "correct_answer": 1,
+      "explanation": "Liviu Rebreanu a scris romanul 'Ion' în 1920, o capodoperă a literaturii române.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai înalt munte din România?",
+      "options": ["Vârful Negoiu", "Vârful Omu", "Vârful Moldoveanu", "Vârful Parângul Mare"],
+      "correct_answer": 2,
+      "explanation": "Vârful Moldoveanu, cu 2544 metri altitudine, este cel mai înalt punct din România.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a murit Mihai Eminescu?",
+      "options": ["1885", "1887", "1889", "1891"],
+      "correct_answer": 2,
+      "explanation": "Mihai Eminescu a murit pe 15 iunie 1889, la vârsta de 39 de ani.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este formula chimică a apei?",
+      "options": ["H2O", "CO2", "O2", "H2O2"],
+      "correct_answer": 0,
+      "explanation": "Apa are formula chimică H2O, fiind formată din doi atomi de hidrogen și un atom de oxigen.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câte planete are sistemul solar?",
+      "options": ["7", "8", "9", "10"],
+      "correct_answer": 1,
+      "explanation": "Sistemul solar are 8 planete după ce Pluto a fost reclasificat ca planetă pitică în 2006.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai lung fluviu din România?",
+      "options": ["Mureș", "Olt", "Siret", "Prut"],
+      "correct_answer": 2,
+      "explanation": "Siretul este cel mai lung râu care curge exclusiv pe teritoriul României, cu 647 km.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a fost primul domnitor al Țării Românești?",
+      "options": ["Basarab I", "Mircea cel Bătrân", "Vlad Țepeș", "Radu Negru"],
+      "correct_answer": 0,
+      "explanation": "Basarab I (1310-1352) este considerat fondatorul și primul domnitor al Țării Românești.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este moneda oficială a României?",
+      "options": ["Euro", "Dolar", "Leu", "Forint"],
+      "correct_answer": 2,
+      "explanation": "Leul românesc (RON) este moneda oficială a României.",
+      "category": "general",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a intrat România în Uniunea Europeană?",
+      "options": ["2004", "2005", "2007", "2009"],
+      "correct_answer": 2,
+      "explanation": "România a devenit membru al Uniunii Europene la 1 ianuarie 2007.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mare lac din România?",
+      "options": ["Lacul Roșu", "Lacul Bicaz", "Lacul Razim", "Lacul Snagov"],
+      "correct_answer": 2,
+      "explanation": "Lacul Razim, cu o suprafață de aproximativ 415 km², este cel mai mare lac din România.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a compus opera 'Oedip'?",
+      "options": ["George Enescu", "Ciprian Porumbescu", "Dinu Lipatti", "Constantin Brâncuși"],
+      "correct_answer": 0,
+      "explanation": "George Enescu a compus opera 'Oedip', considerată capodopera sa lirică.",
+      "category": "arte",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este viteza luminii în vid?",
+      "options": ["150.000 km/s", "200.000 km/s", "300.000 km/s", "400.000 km/s"],
+      "correct_answer": 2,
+      "explanation": "Viteza luminii în vid este aproximativ 300.000 km/s (mai exact 299.792.458 m/s).",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce oraș s-a născut Nicolae Ceaușescu?",
+      "options": ["București", "Pitești", "Scornicești", "Craiova"],
+      "correct_answer": 2,
+      "explanation": "Nicolae Ceaușescu s-a născut în Scornicești, județul Olt, în 1918.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mare ocean al lumii?",
+      "options": ["Oceanul Atlantic", "Oceanul Indian", "Oceanul Arctic", "Oceanul Pacific"],
+      "correct_answer": 3,
+      "explanation": "Oceanul Pacific este cel mai mare ocean, acoperind aproximativ o treime din suprafața Pământului.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câți ani a durat Războiul de 100 de Ani?",
+      "options": ["100 ani", "116 ani", "125 ani", "99 ani"],
+      "correct_answer": 1,
+      "explanation": "Războiul de 100 de Ani a durat de fapt 116 ani, din 1337 până în 1453.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai mic os din corpul uman?",
+      "options": ["Falanga", "Rotula", "Scărița", "Claviculă"],
+      "correct_answer": 2,
+      "explanation": "Scărița (stapes) din urechea medie este cel mai mic os din corpul uman, măsurând aproximativ 3 mm.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a fost încoronată Regina Elisabeta a II-a?",
+      "options": ["1951", "1952", "1953", "1954"],
+      "correct_answer": 2,
+      "explanation": "Regina Elisabeta a II-a a fost încoronată pe 2 iunie 1953, la Westminster Abbey.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cea mai populată țară din lume?",
+      "options": ["India", "SUA", "China", "Indonezia"],
+      "correct_answer": 0,
+      "explanation": "India a devenit cea mai populată țară din lume în 2023, depășind China.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a pictat 'Gioconda'?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Rafael", "Botticelli"],
+      "correct_answer": 1,
+      "explanation": "Leonardo da Vinci a pictat 'Gioconda' (Mona Lisa) între 1503-1519.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câte vertebre are coloana vertebrală umană?",
+      "options": ["31", "32", "33", "34"],
+      "correct_answer": 2,
+      "explanation": "Coloana vertebrală umană are 33 de vertebre (7 cervicale, 12 toracice, 5 lombare, 5 sacrale fuzionate și 4 coccigiene fuzionate).",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este capitala Australiei?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correct_answer": 2,
+      "explanation": "Canberra este capitala Australiei, special construită pentru acest scop.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a fost inventat telefonul?",
+      "options": ["1865", "1876", "1885", "1890"],
+      "correct_answer": 1,
+      "explanation": "Alexander Graham Bell a inventat telefonul în 1876.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mare deșert din lume?",
+      "options": ["Sahara", "Gobi", "Antarctica", "Kalahari"],
+      "correct_answer": 2,
+      "explanation": "Antarctica este tehnic cel mai mare deșert din lume, fiind un deșert polar.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a fost primul om în spațiu?",
+      "options": ["Neil Armstrong", "Iuri Gagarin", "Alan Shepard", "John Glenn"],
+      "correct_answer": 1,
+      "explanation": "Iuri Gagarin a fost primul om în spațiu, pe 12 aprilie 1961.",
+      "category": "istorie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai abundent gaz din atmosfera Pământului?",
+      "options": ["Oxigen", "Dioxid de carbon", "Azot", "Hidrogen"],
+      "correct_answer": 2,
+      "explanation": "Azotul reprezintă aproximativ 78% din atmosfera Pământului.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a avut loc Bătălia de la Waterloo?",
+      "options": ["1812", "1815", "1818", "1821"],
+      "correct_answer": 1,
+      "explanation": "Bătălia de la Waterloo a avut loc pe 18 iunie 1815.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este capitala Canadei?",
+      "options": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
+      "correct_answer": 3,
+      "explanation": "Ottawa este capitala Canadei, situată în provincia Ontario.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câte litere are alfabetul român?",
+      "options": ["28", "30", "31", "32"],
+      "correct_answer": 2,
+      "explanation": "Alfabetul român are 31 de litere, inclusiv cele 5 litere speciale: ă, â, î, ș, ț.",
+      "category": "general",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai mare organ intern al corpului uman?",
+      "options": ["Inima", "Ficatul", "Plămânul", "Stomacul"],
+      "correct_answer": 1,
+      "explanation": "Ficatul este cel mai mare organ intern, cântărind aproximativ 1,5 kg la un adult.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a avut loc Marea Unire?",
+      "options": ["1916", "1917", "1918", "1919"],
+      "correct_answer": 2,
+      "explanation": "Marea Unire a avut loc la 1 decembrie 1918, când Transilvania s-a unit cu România.",
+      "category": "istorie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai mic continent?",
+      "options": ["Europa", "Australia", "Antarctica", "America de Sud"],
+      "correct_answer": 1,
+      "explanation": "Australia este cel mai mic continent, cu o suprafață de aproximativ 8,6 milioane km².",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a scris 'Luceafărul'?",
+      "options": ["George Coșbuc", "Mihai Eminescu", "Vasile Alecsandri", "Ion Creangă"],
+      "correct_answer": 1,
+      "explanation": "Mihai Eminescu a scris poemul 'Luceafărul', publicat postum în 1883.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai ușor element chimic?",
+      "options": ["Heliu", "Litiu", "Hidrogen", "Beriliu"],
+      "correct_answer": 2,
+      "explanation": "Hidrogenul este cel mai ușor element chimic, cu numărul atomic 1.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce oraș se află Turnul Eiffel?",
+      "options": ["Londra", "Roma", "Paris", "Berlin"],
+      "correct_answer": 2,
+      "explanation": "Turnul Eiffel se află în Paris, fiind construit pentru Expoziția Universală din 1889.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câte zile are un an bisect?",
+      "options": ["364", "365", "366", "367"],
+      "correct_answer": 2,
+      "explanation": "Un an bisect are 366 de zile, cu o zi în plus în februarie.",
+      "category": "general",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai mare mamifer terestru?",
+      "options": ["Rinocerul", "Hipopotamul", "Elefantul african", "Girafa"],
+      "correct_answer": 2,
+      "explanation": "Elefantul african este cel mai mare mamifer terestru, putând cântări până la 6 tone.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a căzut Zidul Berlinului?",
+      "options": ["1987", "1988", "1989", "1990"],
+      "correct_answer": 2,
+      "explanation": "Zidul Berlinului a căzut pe 9 noiembrie 1989.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este capitala Japoniei?",
+      "options": ["Osaka", "Kyoto", "Tokyo", "Yokohama"],
+      "correct_answer": 2,
+      "explanation": "Tokyo este capitala Japoniei și unul dintre cele mai populate orașe din lume.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a compus 'Rapsodia Română'?",
+      "options": ["George Enescu", "Ciprian Porumbescu", "Dinu Lipatti", "Constantin Silvestri"],
+      "correct_answer": 0,
+      "explanation": "George Enescu a compus cele două Rapsodii Române, prima fiind cea mai cunoscută.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este unitatea de măsură pentru forță în SI?",
+      "options": ["Joule", "Watt", "Newton", "Pascal"],
+      "correct_answer": 2,
+      "explanation": "Newton (N) este unitatea de măsură pentru forță în Sistemul Internațional.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce țară se află Machu Picchu?",
+      "options": ["Chile", "Bolivia", "Peru", "Ecuador"],
+      "correct_answer": 2,
+      "explanation": "Machu Picchu se află în Peru, fiind o cetate incașă construită în secolul al XV-lea.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai lung os din corpul uman?",
+      "options": ["Tibia", "Humerus", "Femur", "Radius"],
+      "correct_answer": 2,
+      "explanation": "Femurul (osul coapsei) este cel mai lung și mai puternic os din corpul uman.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an s-a născut William Shakespeare?",
+      "options": ["1554", "1564", "1574", "1584"],
+      "correct_answer": 1,
+      "explanation": "William Shakespeare s-a născut în 1564 în Stratford-upon-Avon.",
+      "category": "literatura",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cea mai mică țară din lume?",
+      "options": ["Monaco", "San Marino", "Vatican", "Liechtenstein"],
+      "correct_answer": 2,
+      "explanation": "Vaticanul este cea mai mică țară din lume, cu o suprafață de doar 0,44 km².",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câte coaste are corpul uman?",
+      "options": ["20", "22", "24", "26"],
+      "correct_answer": 2,
+      "explanation": "Corpul uman are 24 de coaste, câte 12 pe fiecare parte.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care a fost primul film sonor?",
+      "options": ["The Jazz Singer", "The Great Train Robbery", "Citizen Kane", "Gone with the Wind"],
+      "correct_answer": 0,
+      "explanation": "The Jazz Singer (1927) este considerat primul film sonor de lungmetraj.",
+      "category": "arte",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a fost asasinat președintele John F. Kennedy?",
+      "options": ["1961", "1962", "1963", "1964"],
+      "correct_answer": 2,
+      "explanation": "John F. Kennedy a fost asasinat pe 22 noiembrie 1963 în Dallas, Texas.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mare lac de apă dulce din lume (după volum)?",
+      "options": ["Lacul Superior", "Lacul Victoria", "Lacul Baikal", "Lacul Tanganika"],
+      "correct_answer": 2,
+      "explanation": "Lacul Baikal din Siberia conține aproximativ 20% din apa dulce de suprafață a planetei.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a descoperit penicilina?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Jonas Salk"],
+      "correct_answer": 1,
+      "explanation": "Alexander Fleming a descoperit penicilina în 1928, revoluționând medicina.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este numele real al lui Voltaire?",
+      "options": ["François-Marie Arouet", "Jean-Baptiste Poquelin", "Jean-Jacques Rousseau", "Denis Diderot"],
+      "correct_answer": 0,
+      "explanation": "Voltaire este pseudonimul lui François-Marie Arouet.",
+      "category": "literatura",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a început Primul Război Mondial?",
+      "options": ["1912", "1913", "1914", "1915"],
+      "correct_answer": 2,
+      "explanation": "Primul Război Mondial a început în 1914, după asasinarea Arhiducelui Franz Ferdinand.",
+      "category": "istorie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este capitala Braziliei?",
+      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "correct_answer": 2,
+      "explanation": "Brasília este capitala Braziliei din 1960, special construită pentru acest scop.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câți dinți permanenți are un adult?",
+      "options": ["28", "30", "32", "34"],
+      "correct_answer": 2,
+      "explanation": "Un adult are 32 de dinți permanenți, inclusiv cei 4 molari de minte.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai vândut album muzical din toate timpurile?",
+      "options": ["The Beatles - Sgt. Pepper's", "Pink Floyd - The Wall", "Michael Jackson - Thriller", "Eagles - Hotel California"],
+      "correct_answer": 2,
+      "explanation": "Thriller de Michael Jackson este cel mai vândut album, cu peste 66 milioane de copii.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce oraș s-a semnat Tratatul de la Versailles?",
+      "options": ["Paris", "Versailles", "Geneva", "Londra"],
+      "correct_answer": 1,
+      "explanation": "Tratatul de la Versailles a fost semnat în Palatul Versailles în 1919.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai adânc punct al oceanelor?",
+      "options": ["Groapa Puerto Rico", "Groapa Java", "Groapa Marianelor", "Groapa Filipinelor"],
+      "correct_answer": 2,
+      "explanation": "Groapa Marianelor, cu punctul Challenger Deep, are aproximativ 11.000 metri adâncime.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Ce înseamnă ADN?",
+      "options": ["Acid dezoxiribonucleic", "Acid deoxi-nucleic", "Acid deoxi-ribonucleic", "Acid deoxiribonucleic"],
+      "correct_answer": 0,
+      "explanation": "ADN înseamnă Acid dezoxiribonucleic, molecula care conține informația genetică.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a scris '1984'?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+      "correct_answer": 1,
+      "explanation": "George Orwell a scris romanul distopic '1984', publicat în 1949.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a fost inventată roata?",
+      "options": ["Aproximativ 5500 î.Hr.", "Aproximativ 3500 î.Hr.", "Aproximativ 2500 î.Hr.", "Aproximativ 1500 î.Hr."],
+      "correct_answer": 1,
+      "explanation": "Roata a fost inventată în Mesopotamia aproximativ în 3500 î.Hr.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cea mai mare insulă din lume?",
+      "options": ["Madagascar", "Borneo", "Groenlanda", "Noua Guinee"],
+      "correct_answer": 2,
+      "explanation": "Groenlanda este cea mai mare insulă din lume, cu o suprafață de peste 2 milioane km².",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câți cromozomi are o celulă umană normală?",
+      "options": ["23", "46", "48", "52"],
+      "correct_answer": 1,
+      "explanation": "O celulă umană normală are 46 de cromozomi, organizați în 23 de perechi.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai scump tablou vândut vreodată?",
+      "options": ["Mona Lisa", "Salvator Mundi", "Les Femmes d'Alger", "The Card Players"],
+      "correct_answer": 1,
+      "explanation": "Salvator Mundi de Leonardo da Vinci a fost vândut pentru 450,3 milioane dolari în 2017.",
+      "category": "arte",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a abdicat Regele Mihai I?",
+      "options": ["1945", "1946", "1947", "1948"],
+      "correct_answer": 2,
+      "explanation": "Regele Mihai I a fost forțat să abdice pe 30 decembrie 1947.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai lung râu din lume?",
+      "options": ["Amazon", "Nil", "Yangtze", "Mississippi"],
+      "correct_answer": 0,
+      "explanation": "Râul Amazon este considerat cel mai lung râu din lume, cu aproximativ 6.992 km.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai dur mineral natural?",
+      "options": ["Cuarț", "Topaz", "Diamant", "Safir"],
+      "correct_answer": 2,
+      "explanation": "Diamantul este cel mai dur mineral natural, cu duritatea 10 pe scara Mohs.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a scris 'Hamlet'?",
+      "options": ["Christopher Marlowe", "William Shakespeare", "Ben Jonson", "John Milton"],
+      "correct_answer": 1,
+      "explanation": "William Shakespeare a scris tragedia 'Hamlet' în jurul anului 1600.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a avut loc Revoluția Franceză?",
+      "options": ["1776", "1789", "1799", "1804"],
+      "correct_answer": 1,
+      "explanation": "Revoluția Franceză a început în 1789 cu luarea Bastiliei pe 14 iulie.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este capitala Indiei?",
+      "options": ["Mumbai", "Calcutta", "New Delhi", "Bangalore"],
+      "correct_answer": 2,
+      "explanation": "New Delhi este capitala Indiei din 1911.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câte elemente chimice sunt în tabelul periodic (2024)?",
+      "options": ["112", "118", "120", "124"],
+      "correct_answer": 1,
+      "explanation": "Tabelul periodic conține 118 elemente chimice confirmate.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care compozitor a devenit surd?",
+      "options": ["Mozart", "Bach", "Beethoven", "Brahms"],
+      "correct_answer": 2,
+      "explanation": "Ludwig van Beethoven a devenit progresiv surd, dar a continuat să compună.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a murit Ștefan cel Mare?",
+      "options": ["1502", "1504", "1506", "1508"],
+      "correct_answer": 1,
+      "explanation": "Ștefan cel Mare a murit pe 2 iulie 1504, după o domnie de 47 de ani.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+        {
+      "question": "Care este capitala României?",
+      "options": ["Sofia", "Budapesta", "București", "Belgrad"],
+      "correct_answer": 2,
+      "explanation": "București este capitala și cel mai mare oraș al României.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a avut loc Revoluția Română?",
+      "options": ["1987", "1989", "1991", "1993"],
+      "correct_answer": 1,
+      "explanation": "Revoluția Română a avut loc în decembrie 1989, ducând la căderea regimului comunist.",
+      "category": "istorie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a scris romanul 'Ion'?",
+      "options": ["Mihail Sadoveanu", "Liviu Rebreanu", "Marin Preda", "Camil Petrescu"],
+      "correct_answer": 1,
+      "explanation": "Liviu Rebreanu a scris romanul 'Ion' în 1920, o capodoperă a literaturii române.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai înalt munte din România?",
+      "options": ["Vârful Negoiu", "Vârful Omu", "Vârful Moldoveanu", "Vârful Parângul Mare"],
+      "correct_answer": 2,
+      "explanation": "Vârful Moldoveanu, cu 2544 metri altitudine, este cel mai înalt punct din România.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a murit Mihai Eminescu?",
+      "options": ["1885", "1887", "1889", "1891"],
+      "correct_answer": 2,
+      "explanation": "Mihai Eminescu a murit pe 15 iunie 1889, la vârsta de 39 de ani.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este formula chimică a apei?",
+      "options": ["H2O", "CO2", "O2", "H2O2"],
+      "correct_answer": 0,
+      "explanation": "Apa are formula chimică H2O, fiind formată din doi atomi de hidrogen și un atom de oxigen.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câte planete are sistemul solar?",
+      "options": ["7", "8", "9", "10"],
+      "correct_answer": 1,
+      "explanation": "Sistemul solar are 8 planete după ce Pluto a fost reclasificat ca planetă pitică în 2006.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai lung fluviu din România?",
+      "options": ["Mureș", "Olt", "Siret", "Prut"],
+      "correct_answer": 2,
+      "explanation": "Siretul este cel mai lung râu care curge exclusiv pe teritoriul României, cu 647 km.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a fost primul domnitor al Țării Românești?",
+      "options": ["Basarab I", "Mircea cel Bătrân", "Vlad Țepeș", "Radu Negru"],
+      "correct_answer": 0,
+      "explanation": "Basarab I (1310-1352) este considerat fondatorul și primul domnitor al Țării Românești.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este moneda oficială a României?",
+      "options": ["Euro", "Dolar", "Leu", "Forint"],
+      "correct_answer": 2,
+      "explanation": "Leul românesc (RON) este moneda oficială a României.",
+      "category": "general",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a intrat România în Uniunea Europeană?",
+      "options": ["2004", "2005", "2007", "2009"],
+      "correct_answer": 2,
+      "explanation": "România a devenit membru al Uniunii Europene la 1 ianuarie 2007.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mare lac din România?",
+      "options": ["Lacul Roșu", "Lacul Bicaz", "Lacul Razim", "Lacul Snagov"],
+      "correct_answer": 2,
+      "explanation": "Lacul Razim, cu o suprafață de aproximativ 415 km², este cel mai mare lac din România.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a compus opera 'Oedip'?",
+      "options": ["George Enescu", "Ciprian Porumbescu", "Dinu Lipatti", "Constantin Brâncuși"],
+      "correct_answer": 0,
+      "explanation": "George Enescu a compus opera 'Oedip', considerată capodopera sa lirică.",
+      "category": "arte",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este viteza luminii în vid?",
+      "options": ["150.000 km/s", "200.000 km/s", "300.000 km/s", "400.000 km/s"],
+      "correct_answer": 2,
+      "explanation": "Viteza luminii în vid este aproximativ 300.000 km/s (mai exact 299.792.458 m/s).",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce oraș s-a născut Nicolae Ceaușescu?",
+      "options": ["București", "Pitești", "Scornicești", "Craiova"],
+      "correct_answer": 2,
+      "explanation": "Nicolae Ceaușescu s-a născut în Scornicești, județul Olt, în 1918.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mare ocean al lumii?",
+      "options": ["Oceanul Atlantic", "Oceanul Indian", "Oceanul Arctic", "Oceanul Pacific"],
+      "correct_answer": 3,
+      "explanation": "Oceanul Pacific este cel mai mare ocean, acoperind aproximativ o treime din suprafața Pământului.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câți ani a durat Războiul de 100 de Ani?",
+      "options": ["100 ani", "116 ani", "125 ani", "99 ani"],
+      "correct_answer": 1,
+      "explanation": "Războiul de 100 de Ani a durat de fapt 116 ani, din 1337 până în 1453.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai mic os din corpul uman?",
+      "options": ["Falanga", "Rotula", "Scărița", "Claviculă"],
+      "correct_answer": 2,
+      "explanation": "Scărița (stapes) din urechea medie este cel mai mic os din corpul uman, măsurând aproximativ 3 mm.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a fost încoronată Regina Elisabeta a II-a?",
+      "options": ["1951", "1952", "1953", "1954"],
+      "correct_answer": 2,
+      "explanation": "Regina Elisabeta a II-a a fost încoronată pe 2 iunie 1953, la Westminster Abbey.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cea mai populată țară din lume?",
+      "options": ["India", "SUA", "China", "Indonezia"],
+      "correct_answer": 0,
+      "explanation": "India a devenit cea mai populată țară din lume în 2023, depășind China.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a pictat 'Gioconda'?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Rafael", "Botticelli"],
+      "correct_answer": 1,
+      "explanation": "Leonardo da Vinci a pictat 'Gioconda' (Mona Lisa) între 1503-1519.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câte vertebre are coloana vertebrală umană?",
+      "options": ["31", "32", "33", "34"],
+      "correct_answer": 2,
+      "explanation": "Coloana vertebrală umană are 33 de vertebre (7 cervicale, 12 toracice, 5 lombare, 5 sacrale fuzionate și 4 coccigiene fuzionate).",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este capitala Australiei?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correct_answer": 2,
+      "explanation": "Canberra este capitala Australiei, special construită pentru acest scop.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a fost inventat telefonul?",
+      "options": ["1865", "1876", "1885", "1890"],
+      "correct_answer": 1,
+      "explanation": "Alexander Graham Bell a inventat telefonul în 1876.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mare deșert din lume?",
+      "options": ["Sahara", "Gobi", "Antarctica", "Kalahari"],
+      "correct_answer": 2,
+      "explanation": "Antarctica este tehnic cel mai mare deșert din lume, fiind un deșert polar.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a fost primul om în spațiu?",
+      "options": ["Neil Armstrong", "Iuri Gagarin", "Alan Shepard", "John Glenn"],
+      "correct_answer": 1,
+      "explanation": "Iuri Gagarin a fost primul om în spațiu, pe 12 aprilie 1961.",
+      "category": "istorie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai abundent gaz din atmosfera Pământului?",
+      "options": ["Oxigen", "Dioxid de carbon", "Azot", "Hidrogen"],
+      "correct_answer": 2,
+      "explanation": "Azotul reprezintă aproximativ 78% din atmosfera Pământului.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a avut loc Bătălia de la Waterloo?",
+      "options": ["1812", "1815", "1818", "1821"],
+      "correct_answer": 1,
+      "explanation": "Bătălia de la Waterloo a avut loc pe 18 iunie 1815.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este capitala Canadei?",
+      "options": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
+      "correct_answer": 3,
+      "explanation": "Ottawa este capitala Canadei, situată în provincia Ontario.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câte litere are alfabetul român?",
+      "options": ["28", "30", "31", "32"],
+      "correct_answer": 2,
+      "explanation": "Alfabetul român are 31 de litere, inclusiv cele 5 litere speciale: ă, â, î, ș, ț.",
+      "category": "general",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai mare organ intern al corpului uman?",
+      "options": ["Inima", "Ficatul", "Plămânul", "Stomacul"],
+      "correct_answer": 1,
+      "explanation": "Ficatul este cel mai mare organ intern, cântărind aproximativ 1,5 kg la un adult.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a avut loc Marea Unire?",
+      "options": ["1916", "1917", "1918", "1919"],
+      "correct_answer": 2,
+      "explanation": "Marea Unire a avut loc la 1 decembrie 1918, când Transilvania s-a unit cu România.",
+      "category": "istorie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai mic continent?",
+      "options": ["Europa", "Australia", "Antarctica", "America de Sud"],
+      "correct_answer": 1,
+      "explanation": "Australia este cel mai mic continent, cu o suprafață de aproximativ 8,6 milioane km².",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a scris 'Luceafărul'?",
+      "options": ["George Coșbuc", "Mihai Eminescu", "Vasile Alecsandri", "Ion Creangă"],
+      "correct_answer": 1,
+      "explanation": "Mihai Eminescu a scris poemul 'Luceafărul', publicat postum în 1883.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai ușor element chimic?",
+      "options": ["Heliu", "Litiu", "Hidrogen", "Beriliu"],
+      "correct_answer": 2,
+      "explanation": "Hidrogenul este cel mai ușor element chimic, cu numărul atomic 1.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce oraș se află Turnul Eiffel?",
+      "options": ["Londra", "Roma", "Paris", "Berlin"],
+      "correct_answer": 2,
+      "explanation": "Turnul Eiffel se află în Paris, fiind construit pentru Expoziția Universală din 1889.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câte zile are un an bisect?",
+      "options": ["364", "365", "366", "367"],
+      "correct_answer": 2,
+      "explanation": "Un an bisect are 366 de zile, cu o zi în plus în februarie.",
+      "category": "general",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai mare mamifer terestru?",
+      "options": ["Rinocerul", "Hipopotamul", "Elefantul african", "Girafa"],
+      "correct_answer": 2,
+      "explanation": "Elefantul african este cel mai mare mamifer terestru, putând cântări până la 6 tone.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a căzut Zidul Berlinului?",
+      "options": ["1987", "1988", "1989", "1990"],
+      "correct_answer": 2,
+      "explanation": "Zidul Berlinului a căzut pe 9 noiembrie 1989.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este capitala Japoniei?",
+      "options": ["Osaka", "Kyoto", "Tokyo", "Yokohama"],
+      "correct_answer": 2,
+      "explanation": "Tokyo este capitala Japoniei și unul dintre cele mai populate orașe din lume.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a compus 'Rapsodia Română'?",
+      "options": ["George Enescu", "Ciprian Porumbescu", "Dinu Lipatti", "Constantin Silvestri"],
+      "correct_answer": 0,
+      "explanation": "George Enescu a compus cele două Rapsodii Române, prima fiind cea mai cunoscută.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este unitatea de măsură pentru forță în SI?",
+      "options": ["Joule", "Watt", "Newton", "Pascal"],
+      "correct_answer": 2,
+      "explanation": "Newton (N) este unitatea de măsură pentru forță în Sistemul Internațional.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce țară se află Machu Picchu?",
+      "options": ["Chile", "Bolivia", "Peru", "Ecuador"],
+      "correct_answer": 2,
+      "explanation": "Machu Picchu se află în Peru, fiind o cetate incașă construită în secolul al XV-lea.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai lung os din corpul uman?",
+      "options": ["Tibia", "Humerus", "Femur", "Radius"],
+      "correct_answer": 2,
+      "explanation": "Femurul (osul coapsei) este cel mai lung și mai puternic os din corpul uman.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an s-a născut William Shakespeare?",
+      "options": ["1554", "1564", "1574", "1584"],
+      "correct_answer": 1,
+      "explanation": "William Shakespeare s-a născut în 1564 în Stratford-upon-Avon.",
+      "category": "literatura",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cea mai mică țară din lume?",
+      "options": ["Monaco", "San Marino", "Vatican", "Liechtenstein"],
+      "correct_answer": 2,
+      "explanation": "Vaticanul este cea mai mică țară din lume, cu o suprafață de doar 0,44 km².",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câte coaste are corpul uman?",
+      "options": ["20", "22", "24", "26"],
+      "correct_answer": 2,
+      "explanation": "Corpul uman are 24 de coaste, câte 12 pe fiecare parte.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care a fost primul film sonor?",
+      "options": ["The Jazz Singer", "The Great Train Robbery", "Citizen Kane", "Gone with the Wind"],
+      "correct_answer": 0,
+      "explanation": "The Jazz Singer (1927) este considerat primul film sonor de lungmetraj.",
+      "category": "arte",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a fost asasinat președintele John F. Kennedy?",
+      "options": ["1961", "1962", "1963", "1964"],
+      "correct_answer": 2,
+      "explanation": "John F. Kennedy a fost asasinat pe 22 noiembrie 1963 în Dallas, Texas.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mare lac de apă dulce din lume (după volum)?",
+      "options": ["Lacul Superior", "Lacul Victoria", "Lacul Baikal", "Lacul Tanganika"],
+      "correct_answer": 2,
+      "explanation": "Lacul Baikal din Siberia conține aproximativ 20% din apa dulce de suprafață a planetei.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a descoperit penicilina?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Jonas Salk"],
+      "correct_answer": 1,
+      "explanation": "Alexander Fleming a descoperit penicilina în 1928, revoluționând medicina.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este numele real al lui Voltaire?",
+      "options": ["François-Marie Arouet", "Jean-Baptiste Poquelin", "Jean-Jacques Rousseau", "Denis Diderot"],
+      "correct_answer": 0,
+      "explanation": "Voltaire este pseudonimul lui François-Marie Arouet.",
+      "category": "literatura",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a început Primul Război Mondial?",
+      "options": ["1912", "1913", "1914", "1915"],
+      "correct_answer": 2,
+      "explanation": "Primul Război Mondial a început în 1914, după asasinarea Arhiducelui Franz Ferdinand.",
+      "category": "istorie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este capitala Braziliei?",
+      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "correct_answer": 2,
+      "explanation": "Brasília este capitala Braziliei din 1960, special construită pentru acest scop.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câți dinți permanenți are un adult?",
+      "options": ["28", "30", "32", "34"],
+      "correct_answer": 2,
+      "explanation": "Un adult are 32 de dinți permanenți, inclusiv cei 4 molari de minte.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este cel mai vândut album muzical din toate timpurile?",
+      "options": ["The Beatles - Sgt. Pepper's", "Pink Floyd - The Wall", "Michael Jackson - Thriller", "Eagles - Hotel California"],
+      "correct_answer": 2,
+      "explanation": "Thriller de Michael Jackson este cel mai vândut album, cu peste 66 milioane de copii.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce oraș s-a semnat Tratatul de la Versailles?",
+      "options": ["Paris", "Versailles", "Geneva", "Londra"],
+      "correct_answer": 1,
+      "explanation": "Tratatul de la Versailles a fost semnat în Palatul Versailles în 1919.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai adânc punct al oceanelor?",
+      "options": ["Groapa Puerto Rico", "Groapa Java", "Groapa Marianelor", "Groapa Filipinelor"],
+      "correct_answer": 2,
+      "explanation": "Groapa Marianelor, cu punctul Challenger Deep, are aproximativ 11.000 metri adâncime.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Ce înseamnă ADN?",
+      "options": ["Acid dezoxiribonucleic", "Acid deoxi-nucleic", "Acid deoxi-ribonucleic", "Acid deoxiribonucleic"],
+      "correct_answer": 0,
+      "explanation": "ADN înseamnă Acid dezoxiribonucleic, molecula care conține informația genetică.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a scris '1984'?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+      "correct_answer": 1,
+      "explanation": "George Orwell a scris romanul distopic '1984', publicat în 1949.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a fost inventată roata?",
+      "options": ["Aproximativ 5500 î.Hr.", "Aproximativ 3500 î.Hr.", "Aproximativ 2500 î.Hr.", "Aproximativ 1500 î.Hr."],
+      "correct_answer": 1,
+      "explanation": "Roata a fost inventată în Mesopotamia aproximativ în 3500 î.Hr.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cea mai mare insulă din lume?",
+      "options": ["Madagascar", "Borneo", "Groenlanda", "Noua Guinee"],
+      "correct_answer": 2,
+      "explanation": "Groenlanda este cea mai mare insulă din lume, cu o suprafață de peste 2 milioane km².",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câți cromozomi are o celulă umană normală?",
+      "options": ["23", "46", "48", "52"],
+      "correct_answer": 1,
+      "explanation": "O celulă umană normală are 46 de cromozomi, organizați în 23 de perechi.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai scump tablou vândut vreodată?",
+      "options": ["Mona Lisa", "Salvator Mundi", "Les Femmes d'Alger", "The Card Players"],
+      "correct_answer": 1,
+      "explanation": "Salvator Mundi de Leonardo da Vinci a fost vândut pentru 450,3 milioane dolari în 2017.",
+      "category": "arte",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a abdicat Regele Mihai I?",
+      "options": ["1945", "1946", "1947", "1948"],
+      "correct_answer": 2,
+      "explanation": "Regele Mihai I a fost forțat să abdice pe 30 decembrie 1947.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai lung râu din lume?",
+      "options": ["Amazon", "Nil", "Yangtze", "Mississippi"],
+      "correct_answer": 0,
+      "explanation": "Râul Amazon este considerat cel mai lung râu din lume, cu aproximativ 6.992 km.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai dur mineral natural?",
+      "options": ["Cuarț", "Topaz", "Diamant", "Safir"],
+      "correct_answer": 2,
+      "explanation": "Diamantul este cel mai dur mineral natural, cu duritatea 10 pe scara Mohs.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a scris 'Hamlet'?",
+      "options": ["Christopher Marlowe", "William Shakespeare", "Ben Jonson", "John Milton"],
+      "correct_answer": 1,
+      "explanation": "William Shakespeare a scris tragedia 'Hamlet' în jurul anului 1600.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a avut loc Revoluția Franceză?",
+      "options": ["1776", "1789", "1799", "1804"],
+      "correct_answer": 1,
+      "explanation": "Revoluția Franceză a început în 1789 cu luarea Bastiliei pe 14 iulie.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este capitala Indiei?",
+      "options": ["Mumbai", "Calcutta", "New Delhi", "Bangalore"],
+      "correct_answer": 2,
+      "explanation": "New Delhi este capitala Indiei din 1911.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câte elemente chimice sunt în tabelul periodic (2024)?",
+      "options": ["112", "118", "120", "124"],
+      "correct_answer": 1,
+      "explanation": "Tabelul periodic conține 118 elemente chimice confirmate.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care compozitor a devenit surd?",
+      "options": ["Mozart", "Bach", "Beethoven", "Brahms"],
+      "correct_answer": 2,
+      "explanation": "Ludwig van Beethoven a devenit progresiv surd, dar a continuat să compună.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a murit Ștefan cel Mare?",
+      "options": ["1502", "1504", "1506", "1508"],
+      "correct_answer": 1,
+      "explanation": "Ștefan cel Mare a murit pe 2 iulie 1504, după o domnie de 47 de ani.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai înalt vârf din Europa?",
+      "options": ["Mont Blanc", "Matterhorn", "Elbrus", "Monte Rosa"],
+      "correct_answer": 2,
+      "explanation": "Muntele Elbrus din Caucaz, cu 5.642 m, este cel mai înalt vârf din Europa.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este temperatura de fierbere a apei la presiune normală?",
+      "options": ["90°C", "95°C", "100°C", "105°C"],
+      "correct_answer": 2,
+      "explanation": "Apa fierbe la 100°C la presiunea atmosferică normală (1 atm).",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a scris 'Cântarea României'?",
+      "options": ["Alecu Russo", "Nicolae Bălcescu", "Grigore Alexandrescu", "Dimitrie Bolintineanu"],
+      "correct_answer": 0,
+      "explanation": "Alecu Russo a scris 'Cântarea României' în 1850.",
+      "category": "literatura",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a fost fondat Principatul Monaco?",
+      "options": ["1197", "1297", "1397", "1497"],
+      "correct_answer": 1,
+      "explanation": "Principatul Monaco a fost fondat în 1297 de familia Grimaldi.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai mare arhipelag din lume?",
+      "options": ["Filipine", "Japonia", "Indonezia", "Maldive"],
+      "correct_answer": 2,
+      "explanation": "Indonezia este cel mai mare arhipelag, cu peste 17.000 de insule.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câți litri de sânge are un adult?",
+      "options": ["3-4 litri", "5-6 litri", "7-8 litri", "9-10 litri"],
+      "correct_answer": 1,
+      "explanation": "Un adult are aproximativ 5-6 litri de sânge în corp.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care pictor și-a tăiat urechea?",
+      "options": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Paul Gauguin"],
+      "correct_answer": 1,
+      "explanation": "Vincent van Gogh și-a tăiat lobul urechii în 1888, într-un moment de criză.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a avut loc Bătălia de la Călugăreni?",
+      "options": ["1593", "1595", "1597", "1599"],
+      "correct_answer": 1,
+      "explanation": "Bătălia de la Călugăreni a avut loc pe 23 august 1595, între Mihai Viteazul și otomani.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai mic stat din SUA?",
+      "options": ["Delaware", "Connecticut", "Rhode Island", "Hawaii"],
+      "correct_answer": 2,
+      "explanation": "Rhode Island este cel mai mic stat din SUA, cu doar 4.002 km².",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Ce vitamină produce pielea sub acțiunea soarelui?",
+      "options": ["Vitamina A", "Vitamina C", "Vitamina D", "Vitamina E"],
+      "correct_answer": 2,
+      "explanation": "Pielea produce vitamina D când este expusă la razele ultraviolete ale soarelui.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a scris 'Moromeții'?",
+      "options": ["Marin Preda", "Zaharia Stancu", "Eugen Barbu", "Constantin Chiriță"],
+      "correct_answer": 0,
+      "explanation": "Marin Preda a scris romanul 'Moromeții', publicat în 1955.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an s-a născut Napoleon Bonaparte?",
+      "options": ["1765", "1769", "1773", "1777"],
+      "correct_answer": 1,
+      "explanation": "Napoleon Bonaparte s-a născut pe 15 august 1769 în Corsica.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai populat oraș din România?",
+      "options": ["Cluj-Napoca", "Timișoara", "București", "Iași"],
+      "correct_answer": 2,
+      "explanation": "București este cel mai populat oraș din România, cu peste 1,8 milioane locuitori.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este unitatea de măsură pentru presiune în SI?",
+      "options": ["Bar", "Atmosferă", "Pascal", "Torr"],
+      "correct_answer": 2,
+      "explanation": "Pascal (Pa) este unitatea de măsură pentru presiune în Sistemul Internațional.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care operă îi aparține lui Giuseppe Verdi?",
+      "options": ["Carmen", "La Traviata", "Don Giovanni", "Tosca"],
+      "correct_answer": 1,
+      "explanation": "La Traviata este o operă compusă de Giuseppe Verdi în 1853.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a fost fondată Roma?",
+      "options": ["1053 î.Hr.", "953 î.Hr.", "853 î.Hr.", "753 î.Hr."],
+      "correct_answer": 3,
+      "explanation": "Conform legendei, Roma a fost fondată în 753 î.Hr. de Romulus și Remus.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cea mai nordică capitală din lume?",
+      "options": ["Oslo", "Stockholm", "Reykjavik", "Helsinki"],
+      "correct_answer": 2,
+      "explanation": "Reykjavik, capitala Islandei, este cea mai nordică capitală din lume.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câte camere are inima umană?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": 2,
+      "explanation": "Inima umană are 4 camere: 2 atrii și 2 ventricule.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a scris 'Război și pace'?",
+      "options": ["Fiodor Dostoievski", "Lev Tolstoi", "Anton Cehov", "Ivan Turgheniev"],
+      "correct_answer": 1,
+      "explanation": "Lev Tolstoi a scris romanul 'Război și pace', publicat între 1865-1869.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a devenit Alaska stat american?",
+      "options": ["1949", "1959", "1969", "1979"],
+      "correct_answer": 1,
+      "explanation": "Alaska a devenit al 49-lea stat american în 1959.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai lung tunel din lume?",
+      "options": ["Tunelul Canalului Mânecii", "Tunelul Seikan", "Tunelul Gotthard", "Tunelul Laerdal"],
+      "correct_answer": 2,
+      "explanation": "Tunelul de bază Gotthard din Elveția, cu 57 km, este cel mai lung tunel feroviar din lume.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai comun element din universul cunoscut?",
+      "options": ["Heliu", "Oxigen", "Hidrogen", "Carbon"],
+      "correct_answer": 2,
+      "explanation": "Hidrogenul reprezintă aproximativ 75% din masa elementelor din univers.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a regizat filmul 'Psycho'?",
+      "options": ["Stanley Kubrick", "Alfred Hitchcock", "Orson Welles", "Billy Wilder"],
+      "correct_answer": 1,
+      "explanation": "Alfred Hitchcock a regizat thrillerul psihologic 'Psycho' în 1960.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a avut loc Bătălia de la Stalingrad?",
+      "options": ["1941-1942", "1942-1943", "1943-1944", "1944-1945"],
+      "correct_answer": 1,
+      "explanation": "Bătălia de la Stalingrad s-a desfășurat între august 1942 și februarie 1943.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care țară are cele mai multe fusuri orare?",
+      "options": ["SUA", "Canada", "Rusia", "China"],
+      "correct_answer": 2,
+      "explanation": "Rusia are 11 fusuri orare, cele mai multe din lume.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Câți mușchi are corpul uman?",
+      "options": ["Aproximativ 400", "Aproximativ 500", "Aproximativ 600", "Aproximativ 700"],
+      "correct_answer": 2,
+      "explanation": "Corpul uman are aproximativ 600 de mușchi.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a scris 'Amintiri din copilărie'?",
+      "options": ["Ion Creangă", "Mihail Sadoveanu", "Ion Luca Caragiale", "George Coșbuc"],
+      "correct_answer": 0,
+      "explanation": "Ion Creangă a scris 'Amintiri din copilărie' între 1881-1888.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a avut loc primul zbor cu avionul al fraților Wright?",
+      "options": ["1901", "1903", "1905", "1907"],
+      "correct_answer": 1,
+      "explanation": "Frații Wright au realizat primul zbor controlat cu motor pe 17 decembrie 1903.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este capitala Noii Zeelande?",
+      "options": ["Auckland", "Christchurch", "Wellington", "Hamilton"],
+      "correct_answer": 2,
+      "explanation": "Wellington este capitala Noii Zeelande din 1865.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care planetă are cei mai mulți sateliți naturali?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptun"],
+      "correct_answer": 1,
+      "explanation": "Saturn are cei mai mulți sateliți cunoscuți, peste 140.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a sculptat 'David'?",
+      "options": ["Donatello", "Michelangelo", "Bernini", "Rodin"],
+      "correct_answer": 1,
+      "explanation": "Michelangelo a sculptat statuia David între 1501-1504.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a fost semnat Tratatul de la Trianon?",
+      "options": ["1918", "1919", "1920", "1921"],
+      "correct_answer": 2,
+      "explanation": "Tratatul de la Trianon a fost semnat pe 4 iunie 1920.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mic ocean?",
+      "options": ["Oceanul Indian", "Oceanul Atlantic", "Oceanul Arctic", "Oceanul Antarctic"],
+      "correct_answer": 2,
+      "explanation": "Oceanul Arctic este cel mai mic ocean, cu aproximativ 14 milioane km².",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Ce gaz folosesc plantele în fotosinteză?",
+      "options": ["Oxigen", "Azot", "Dioxid de carbon", "Hidrogen"],
+      "correct_answer": 2,
+      "explanation": "Plantele folosesc dioxid de carbon și apă pentru a produce glucoză și oxigen.",
+      "category": "stiinta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Cine a scris 'Don Quijote'?",
+      "options": ["Lope de Vega", "Miguel de Cervantes", "Federico García Lorca", "Luis de Góngora"],
+      "correct_answer": 1,
+      "explanation": "Miguel de Cervantes a scris 'Don Quijote', publicat în 1605 și 1615.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a fost inventat internetul?",
+      "options": ["1969", "1973", "1983", "1991"],
+      "correct_answer": 0,
+      "explanation": "ARPANET, precursorul internetului, a fost creat în 1969.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai înalt vulcan activ din lume?",
+      "options": ["Etna", "Kilimanjaro", "Ojos del Salado", "Mauna Loa"],
+      "correct_answer": 2,
+      "explanation": "Ojos del Salado, la granița Chile-Argentina, cu 6.893 m, este cel mai înalt vulcan activ.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care organ produce insulină?",
+      "options": ["Ficatul", "Rinichii", "Pancreasul", "Splina"],
+      "correct_answer": 2,
+      "explanation": "Pancreasul produce insulină în celulele beta din insulele Langerhans.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care compozitor a scris 'Anotimpurile'?",
+      "options": ["Johann Sebastian Bach", "Antonio Vivaldi", "Georg Friedrich Händel", "Henry Purcell"],
+      "correct_answer": 1,
+      "explanation": "Antonio Vivaldi a compus 'Cele patru anotimpuri' în jurul anului 1720.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a domnit Alexandru Ioan Cuza?",
+      "options": ["1859-1866", "1866-1871", "1871-1878", "1878-1881"],
+      "correct_answer": 0,
+      "explanation": "Alexandru Ioan Cuza a domnit între 1859-1866, realizând Mica Unire.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai lung lanț muntos din lume?",
+      "options": ["Himalaya", "Anzii", "Munții Stâncoși", "Alpii"],
+      "correct_answer": 1,
+      "explanation": "Munții Anzi se întind pe aproximativ 7.000 km de-a lungul coastei vestice a Americii de Sud.",
+      "category": "geografie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Câte perechi de nervi cranieni are omul?",
+      "options": ["10", "12", "14", "16"],
+      "correct_answer": 1,
+      "explanation": "Există 12 perechi de nervi cranieni care pornesc direct din creier.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a scris 'O scrisoare pierdută'?",
+      "options": ["Ion Luca Caragiale", "Vasile Alecsandri", "Barbu Ștefănescu Delavrancea", "Alexandru Davila"],
+      "correct_answer": 0,
+      "explanation": "Ion Luca Caragiale a scris comedia 'O scrisoare pierdută' în 1884.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a fost desființată sclavia în SUA?",
+      "options": ["1861", "1863", "1865", "1867"],
+      "correct_answer": 2,
+      "explanation": "Sclavia a fost abolită oficial în SUA prin Amendamentul 13 în 1865.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care țară are cel mai lung litoral?",
+      "options": ["Australia", "Rusia", "Canada", "Indonezia"],
+      "correct_answer": 2,
+      "explanation": "Canada are cel mai lung litoral din lume, cu peste 202.000 km.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai mare organ al corpului uman?",
+      "options": ["Ficatul", "Plămânii", "Pielea", "Intestinul"],
+      "correct_answer": 2,
+      "explanation": "Pielea este cel mai mare organ, reprezentând aproximativ 16% din greutatea corporală.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care artist a pictat Capela Sixtină?",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Rafael", "Titian"],
+      "correct_answer": 1,
+      "explanation": "Michelangelo a pictat tavanul Capelei Sixtine între 1508-1512.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a fost înființată Liga Națiunilor?",
+      "options": ["1918", "1919", "1920", "1921"],
+      "correct_answer": 2,
+      "explanation": "Liga Națiunilor a fost înființată în 1920, după Primul Război Mondial.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este capitala Argentinei?",
+      "options": ["Santiago", "Montevideo", "Buenos Aires", "La Paz"],
+      "correct_answer": 2,
+      "explanation": "Buenos Aires este capitala și cel mai mare oraș al Argentinei.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Câți electroni poate conține orbitalul s?",
+      "options": ["1", "2", "4", "6"],
+      "correct_answer": 1,
+      "explanation": "Un orbital s poate conține maximum 2 electroni cu spin opus.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a scris 'Baltagul'?",
+      "options": ["Liviu Rebreanu", "Marin Preda", "Mihail Sadoveanu", "Zaharia Stancu"],
+      "correct_answer": 2,
+      "explanation": "Mihail Sadoveanu a scris romanul 'Baltagul' în 1930.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a avut loc Bătălia de la Mărășești?",
+      "options": ["1916", "1917", "1918", "1919"],
+      "correct_answer": 1,
+      "explanation": "Bătălia de la Mărășești a avut loc în iulie-august 1917.",
+      "category": "istorie",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Care este cel mai mare deșert cald din lume?",
+      "options": ["Deșertul Gobi", "Deșertul Kalahari", "Deșertul Sahara", "Deșertul Arabian"],
+      "correct_answer": 2,
+      "explanation": "Deșertul Sahara, cu aproximativ 9 milioane km², este cel mai mare deșert cald.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este unitatea de măsură pentru frecvență?",
+      "options": ["Watt", "Joule", "Hertz", "Newton"],
+      "correct_answer": 2,
+      "explanation": "Hertz (Hz) este unitatea de măsură pentru frecvență în SI.",
+      "category": "stiinta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Cine a compus 'Simfonia a 9-a'?",
+      "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johannes Brahms", "Franz Schubert"],
+      "correct_answer": 1,
+      "explanation": "Ludwig van Beethoven a compus Simfonia a 9-a, inclusiv 'Oda Bucuriei'.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a fost fondat Imperiul Bizantin?",
+      "options": ["285", "330", "395", "476"],
+      "correct_answer": 2,
+      "explanation": "Imperiul Bizantin a fost fondat în 395, după divizarea Imperiului Roman.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cea mai adâncă groapă oceanică din Atlantic?",
+      "options": ["Groapa Sandwich de Sud", "Groapa Puerto Rico", "Groapa Romanche", "Groapa Cayman"],
+      "correct_answer": 1,
+      "explanation": "Groapa Puerto Rico, cu 8.376 m adâncime, este cea mai adâncă din Atlantic.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Câte oase are un nou-născut?",
+      "options": ["206", "270", "300", "350"],
+      "correct_answer": 2,
+      "explanation": "Un nou-născut are aproximativ 300 de oase, multe fuzionând pe măsură ce crește.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a scris 'Divina Comedie'?",
+      "options": ["Petrarca", "Dante Alighieri", "Giovanni Boccaccio", "Niccolò Machiavelli"],
+      "correct_answer": 1,
+      "explanation": "Dante Alighieri a scris 'Divina Comedie' între 1308-1320.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a fost proclamată independența României?",
+      "options": ["1875", "1877", "1879", "1881"],
+      "correct_answer": 1,
+      "explanation": "Independența României a fost proclamată pe 9 mai 1877.",
+      "category": "istorie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care țară are forma de cizmă?",
+      "options": ["Spania", "Grecia", "Italia", "Portugalia"],
+      "correct_answer": 2,
+      "explanation": "Italia este cunoscută pentru forma sa caracteristică de cizmă.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Ce tip de radiație are cea mai mare putere de penetrare?",
+      "options": ["Alfa", "Beta", "Gamma", "X"],
+      "correct_answer": 2,
+      "explanation": "Radiația gamma are cea mai mare putere de penetrare dintre radiațiile nucleare.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care regizor a creat filmul 'Citizen Kane'?",
+      "options": ["Frank Capra", "John Ford", "Orson Welles", "Howard Hawks"],
+      "correct_answer": 2,
+      "explanation": "Orson Welles a regizat și jucat în 'Citizen Kane' (1941).",
+      "category": "arte",
+      "difficulty": "hard"
+    },
+    {
+      "question": "În ce an a avut loc Prima Cruciadă?",
+      "options": ["1054", "1066", "1096", "1099"],
+      "correct_answer": 2,
+      "explanation": "Prima Cruciadă a început în 1096 și s-a încheiat cu cucerirea Ierusalimului în 1099.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai lung pod din Europa?",
+      "options": ["Podul Vasco da Gama", "Podul Crimeea", "Podul Øresund", "Podul 25 Aprilie"],
+      "correct_answer": 1,
+      "explanation": "Podul Crimeea (Kerci), cu 19 km, este cel mai lung pod din Europa.",
+      "category": "geografie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Câți neuroni are creierul uman?",
+      "options": ["10 miliarde", "50 miliarde", "86 miliarde", "100 miliarde"],
+      "correct_answer": 2,
+      "explanation": "Creierul uman conține aproximativ 86 miliarde de neuroni.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cine a scris 'Enigma Otiliei'?",
+      "options": ["George Călinescu", "Camil Petrescu", "Hortensia Papadat-Bengescu", "Garabet Ibrăileanu"],
+      "correct_answer": 0,
+      "explanation": "George Călinescu a scris romanul 'Enigma Otiliei' în 1938.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "În ce an a murit Cleopatra?",
+      "options": ["40 î.Hr.", "35 î.Hr.", "30 î.Hr.", "25 î.Hr."],
+      "correct_answer": 2,
+      "explanation": "Cleopatra a murit în 30 î.Hr., marcând sfârșitul Egiptului ptolemaic.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cel mai mic continent locuit?",
+      "options": ["Europa", "Australia", "America de Sud", "Africa"],
+      "correct_answer": 1,
+      "explanation": "Australia este cel mai mic continent locuit permanent.",
+      "category": "geografie",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Care este constanta lui Planck?",
+      "options": ["6.626 × 10⁻³⁴ J·s", "9.81 m/s²", "3 × 10⁸ m/s", "6.022 × 10²³"],
+      "correct_answer": 0,
+      "explanation": "Constanta lui Planck (h) este 6.626 × 10⁻³⁴ J·s.",
+      "category": "stiinta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care sculptor român a creat 'Coloana Infinitului'?",
+      "options": ["Ion Jalea", "Constantin Brâncuși", "Dimitrie Paciurea", "Oscar Han"],
+      "correct_answer": 1,
+      "explanation": "Constantin Brâncuși a creat 'Coloana Infinitului' la Târgu Jiu în 1938.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "În ce an a fost desființată Inchiziția spaniolă?",
+      "options": ["1808", "1820", "1834", "1850"],
+      "correct_answer": 2,
+      "explanation": "Inchiziția spaniolă a fost oficial desființată în 1834.",
+      "category": "istorie",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Care este cea mai veche universitate din lume încă în funcțiune?",
+      "options": ["Oxford", "Bologna", "Al-Qarawiyyin", "Cambridge"],
+      "correct_answer": 2,
+      "explanation": "Universitatea Al-Qarawiyyin din Fez, Maroc, fondată în 859, este cea mai veche.",
+      "category": "general",
+      "difficulty": "hard"
+    }
+]
