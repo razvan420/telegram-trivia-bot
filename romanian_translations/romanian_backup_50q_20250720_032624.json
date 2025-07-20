@@ -1,0 +1,534 @@
+[
+  {
+    "question": "Ce alcoholic drink este made din molasses?",
+    "correct_answer": "Rum",
+    "incorrect_answers": [
+      "Gin",
+      "Vodka",
+      "Whisky"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "În the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon cu ce shape?",
+    "correct_answer": "Key",
+    "incorrect_answers": [
+      "Sword",
+      "Pen",
+      "Cellphone"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Virtual reality company Oculus VR lost care of it's co-founders în a freak mașină accident în 2013?",
+    "correct_answer": "Andrew Scott Reisse",
+    "incorrect_answers": [
+      "Nate Mitchell",
+      "Jack McCauley",
+      "Palmer Luckey"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "greu"
+  },
+  {
+    "question": "Ce este the primul carte of the Vechi Testament?",
+    "correct_answer": "Genesis",
+    "incorrect_answers": [
+      "Exodus",
+      "Leviticus",
+      "Numbers"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Haggis este traditionally ate pe Burns Noapte",
+    "correct_answer": "Adevărat",
+    "incorrect_answers": [
+      "Fals"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "The words \"bungalow\" și \"shampoo\" originate din the languages of care țară",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "Papua Nou Guinea",
+      "Ethiopia",
+      "China"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "greu"
+  },
+  {
+    "question": "Care țară drives pe the stânga side of the road?",
+    "correct_answer": "Japan",
+    "incorrect_answers": [
+      "Germany",
+      "Russia",
+      "China"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Când a fost Nintendo founded?",
+    "correct_answer": "September 23rd, 1889",
+    "incorrect_answers": [
+      "October 19th, 1891",
+      "March 4th, 1887",
+      "December 27th, 1894"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Ce alcoholic drink este mainly made din juniper berries?",
+    "correct_answer": "Gin",
+    "incorrect_answers": [
+      "Vodka",
+      "Rum",
+      "Tequila"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Ce fast mâncare chain has the cel mai mult locations globally?",
+    "correct_answer": "Subway",
+    "incorrect_answers": [
+      "Starbucks",
+      "McDonalds",
+      "KFC"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "The nou Unu Lume Trade Center în Manhattan, Nou York Oraș a fost designed din care architect?",
+    "correct_answer": "David Childs",
+    "incorrect_answers": [
+      "Bjarke Ingels",
+      "Michael Arad",
+      "Fumihiko Maki"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Care of these fast-food chains este NOT mainly known la sell pizza?",
+    "correct_answer": "Wendy's",
+    "incorrect_answers": [
+      "Domino's",
+      "Mic Caesars",
+      "Papa John's"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Ce character a fost odată considered la be the 27th literă of the alphabet?",
+    "correct_answer": "Ampersand",
+    "incorrect_answers": [
+      "Interrobang",
+      "Tilde",
+      "Pilcrow"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Waluigi's primul appearance a fost în ce joc",
+    "correct_answer": "Mario Tennis 64 (N64)",
+    "incorrect_answers": [
+      "Wario Land: Super Mario Land 3",
+      "Mario Party (N64)",
+      "Super Smash Bros. Ultimate"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Frank Lloyd Wright a fost the architect behind ce celebru building?",
+    "correct_answer": "The Guggenheim",
+    "incorrect_answers": [
+      "Villa Savoye",
+      "Sydney Opera Casă",
+      "The Space Needle"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "În ce an a fost McDonald's founded?",
+    "correct_answer": "1955",
+    "incorrect_answers": [
+      "1964",
+      "1951",
+      "1947"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "În past times, ce ar a gentleman keep în his fob pocket?",
+    "correct_answer": "Watch",
+    "incorrect_answers": [
+      "Bani",
+      "Keys",
+      "Notebook"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "The file hosting service, \"Google Drive\" a fost launched pe ce zi",
+    "correct_answer": "April 24, 2012",
+    "incorrect_answers": [
+      "January 12, 2014",
+      "November 14, 2008",
+      "January 20, 2010"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Cine este the youngest persoană la receive a Nobel Prize?",
+    "correct_answer": "Malala Yousafzai",
+    "incorrect_answers": [
+      "Lawrence Bragg",
+      "Werner Heisenberg",
+      "Yasser Arafat"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Care chemical element, număr 11 în the Periodic table, has the symbol Na?",
+    "correct_answer": "Sodium",
+    "incorrect_answers": [
+      "Carbon",
+      "Lead",
+      "Nitrogen"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Scotland voted la become an independent țară during the referendum din September 2014.",
+    "correct_answer": "Fals",
+    "incorrect_answers": [
+      "Adevărat"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "The buried remains of care English explorer of Australia au fost found în London în January 2019?",
+    "correct_answer": "Matthew Flinders",
+    "incorrect_answers": [
+      "William Bourke",
+      "Abel Tasman",
+      "Dirk Hartog"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Cucumbers sunt din obicei mai mult decât 90% apă",
+    "correct_answer": "Adevărat",
+    "incorrect_answers": [
+      "Fals"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Adolf Hitler a fost born în Australia.",
+    "correct_answer": "Fals",
+    "incorrect_answers": [
+      "Adevărat"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Ce este the weight of a Gold Bar în Fallout: Nou Vegas?",
+    "correct_answer": "35 Pounds",
+    "incorrect_answers": [
+      "30 Pounds",
+      "40 Pounds",
+      "32.50 Pounds"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "greu"
+  },
+  {
+    "question": "Ce este the nume of the Jewish Nou An",
+    "correct_answer": "Rosh Hashanah",
+    "incorrect_answers": [
+      "Elul",
+      "Nou An",
+      "Succoss"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "You can legally drink alcohol while driving în Mississippi.",
+    "correct_answer": "Adevărat",
+    "incorrect_answers": [
+      "Fals"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "În \"Resident Evil 3\", cum many inventory slots does Jill have la the start of the joc",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "6",
+      "10",
+      "12"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "greu"
+  },
+  {
+    "question": "Ce este a Burgee?",
+    "correct_answer": "A flag",
+    "incorrect_answers": [
+      "A rope",
+      "A window",
+      "A type of mâncare"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Ce este the Swedish cuvânt pentru \"window\"?",
+    "correct_answer": "Fönster",
+    "incorrect_answers": [
+      "Hål",
+      "Skärm",
+      "Ruta"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Care of these este NOT considered la be a colour that makes sus the rainbow?",
+    "correct_answer": "Pink",
+    "incorrect_answers": [
+      "Blue",
+      "Violet",
+      "Orange"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "\"27 Club\" este a term used la refer la a list of celebru actors, musicians, și artists cine died la the age of 27.",
+    "correct_answer": "Adevărat",
+    "incorrect_answers": [
+      "Fals"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Care of these holidays este NOT din obicei celebrated în the lună of December?",
+    "correct_answer": "Thanksgiving",
+    "incorrect_answers": [
+      "Christmas",
+      "Kwanzaa",
+      "Hanukkah"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Foie gras este a French delicacy typically made din ce part of a duck sau goose?",
+    "correct_answer": "Liver",
+    "incorrect_answers": [
+      "Heart",
+      "Stomach",
+      "Intestines"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Ce type of dog este 'Handsome Dan', the mascot of Yale Universitate",
+    "correct_answer": "Bulldog",
+    "incorrect_answers": [
+      "Yorkshire Terrier",
+      "Boxer",
+      "Pug"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "greu"
+  },
+  {
+    "question": "Instant mashed potatoes au fost invented din Canadian Edward Asselbergs în 1962.",
+    "correct_answer": "Adevărat",
+    "incorrect_answers": [
+      "Fals"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Ce does VR stand pentru",
+    "correct_answer": "Virtual Reality",
+    "incorrect_answers": [
+      "Foarte Real",
+      "Visual Recognition",
+      "Voice Recognition"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Dihydrogen Monoxide este a dangerous chemical.",
+    "correct_answer": "Fals",
+    "incorrect_answers": [
+      "Adevărat"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Ce does the Latin phrase \"Veni, vidi, vici\" translate into English?",
+    "correct_answer": "I came, I saw, I conquered",
+    "incorrect_answers": [
+      "See no evil, hear no evil, speak no evil",
+      "Viață liberty, și happiness",
+      "Past, present, și future"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "greu"
+  },
+  {
+    "question": "Ce este the official limbă of Brazil?",
+    "correct_answer": "Portuguese",
+    "incorrect_answers": [
+      "Brazilian",
+      "Spanish",
+      "English"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Care sign of the zodiac comes between Virgo și Scorpio?",
+    "correct_answer": "Libra",
+    "incorrect_answers": [
+      "Gemini",
+      "Taurus",
+      "Capricorn"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Când a fost \"YouTube\" founded?",
+    "correct_answer": "February 14, 2005",
+    "incorrect_answers": [
+      "May 22, 2004",
+      "September 12, 2005",
+      "July 19, 2009"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "greu"
+  },
+  {
+    "question": "Apple co-founder Steve Jobs died din complications of care form of cancer?",
+    "correct_answer": "Pancreatic",
+    "incorrect_answers": [
+      "Bone",
+      "Liver",
+      "Stomach"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "The likeness of care președinte este featured pe the rare $2 bill of USA currency?",
+    "correct_answer": "Thomas Jefferson",
+    "incorrect_answers": [
+      "Martin Van Buren",
+      "Ulysses Grant",
+      "John Quincy Adams"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "În \"Katamari Damacy\", you control a character known ca",
+    "correct_answer": "The Prince",
+    "incorrect_answers": [
+      "Fujio",
+      "Ichigo",
+      "Foomin"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "În \"Battle Cats\", ce este Moneko / MISS Moneko's critical percentage rate?",
+    "correct_answer": "15%",
+    "incorrect_answers": [
+      "20%",
+      "10%",
+      "25%"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "greu"
+  },
+  {
+    "question": "The National Animal of Scotland este the Unicorn.",
+    "correct_answer": "Adevărat",
+    "incorrect_answers": [
+      "Fals"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "ușor"
+  },
+  {
+    "question": "Ce este the romanized Russian cuvânt pentru \"winter\"?",
+    "correct_answer": "Zima",
+    "incorrect_answers": [
+      "Leto",
+      "Vesna",
+      "Osen'"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Ce does a milliner make și sell?",
+    "correct_answer": "Hats",
+    "incorrect_answers": [
+      "Shoes",
+      "Belts",
+      "Shirts"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "mediu"
+  },
+  {
+    "question": "Ce an a fost Regină Elizabeth II born?",
+    "correct_answer": "1926",
+    "incorrect_answers": [
+      "1923",
+      "1929",
+      "1930"
+    ],
+    "category": "Cultură Generală",
+    "difficulty": "greu"
+  }
+]

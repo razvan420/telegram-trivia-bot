@@ -1,12 +1,1 @@
 python-telegram-bot
-asyncio
-pathlib
-typing
-dataclasses
-collections
-datetime
-logging
-json
-random
-math
-os

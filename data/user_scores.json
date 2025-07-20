@@ -2,10 +2,10 @@
   "7063110024": {
     "user_id": 7063110024,
     "username": "navzar97",
-    "total_score": 18,
-    "questions_answered": 28,
-    "correct_answers": 18,
-    "last_activity": "2025-07-05T01:03:40.175373",
+    "total_score": 28,
+    "questions_answered": 58,
+    "correct_answers": 28,
+    "last_activity": "2025-07-20T02:02:23.736169",
     "preferred_language": "ro"
   },
   "7671861876": {
@@ -47,10 +47,10 @@
   "7809189938": {
     "user_id": 7809189938,
     "username": "Donttagmeok",
-    "total_score": 3,
-    "questions_answered": 13,
-    "correct_answers": 3,
-    "last_activity": "2025-07-05T01:05:17.284120",
+    "total_score": 12,
+    "questions_answered": 43,
+    "correct_answers": 12,
+    "last_activity": "2025-07-20T02:03:14.681641",
     "preferred_language": "ro"
   },
   "7939203400": {
@@ -74,10 +74,10 @@
   "6399026671": {
     "user_id": 6399026671,
     "username": "moscraciun11",
-    "total_score": 14,
-    "questions_answered": 29,
-    "correct_answers": 14,
-    "last_activity": "2025-07-05T00:06:56.506788",
+    "total_score": 25,
+    "questions_answered": 46,
+    "correct_answers": 25,
+    "last_activity": "2025-07-20T00:47:24.964923",
     "preferred_language": "ro"
   },
   "987223522": {
@@ -168,6 +168,96 @@
     "questions_answered": 6,
     "correct_answers": 1,
     "last_activity": "2025-07-05T01:04:57.011259",
+    "preferred_language": "ro"
+  },
+  "7421433699": {
+    "user_id": 7421433699,
+    "username": "arici99",
+    "total_score": 24,
+    "questions_answered": 27,
+    "correct_answers": 24,
+    "last_activity": "2025-07-20T00:47:31.677669",
+    "preferred_language": "ro"
+  },
+  "7682633956": {
+    "user_id": 7682633956,
+    "username": "0𝖉𝖎𝖓",
+    "total_score": 0,
+    "questions_answered": 1,
+    "correct_answers": 0,
+    "last_activity": "2025-07-19T22:55:47.479020",
+    "preferred_language": "ro"
+  },
+  "1836795691": {
+    "user_id": 1836795691,
+    "username": "Bogdan Fabian",
+    "total_score": 0,
+    "questions_answered": 1,
+    "correct_answers": 0,
+    "last_activity": "2025-07-20T00:04:26.008814",
+    "preferred_language": "ro"
+  },
+  "5055207045": {
+    "user_id": 5055207045,
+    "username": "Yo_PLM",
+    "total_score": 6,
+    "questions_answered": 9,
+    "correct_answers": 6,
+    "last_activity": "2025-07-20T00:29:48.112025",
+    "preferred_language": "ro"
+  },
+  "8089631301": {
+    "user_id": 8089631301,
+    "username": "vallentiiin",
+    "total_score": 8,
+    "questions_answered": 20,
+    "correct_answers": 8,
+    "last_activity": "2025-07-20T02:23:55.477099",
+    "preferred_language": "ro"
+  },
+  "7980114124": {
+    "user_id": 7980114124,
+    "username": "S7UD3N7A",
+    "total_score": 1,
+    "questions_answered": 9,
+    "correct_answers": 1,
+    "last_activity": "2025-07-20T00:38:56.755219",
+    "preferred_language": "ro"
+  },
+  "7765099498": {
+    "user_id": 7765099498,
+    "username": "spume_si_clabuci",
+    "total_score": 11,
+    "questions_answered": 19,
+    "correct_answers": 11,
+    "last_activity": "2025-07-20T00:47:09.070441",
+    "preferred_language": "ro"
+  },
+  "6525233596": {
+    "user_id": 6525233596,
+    "username": "bruciatta",
+    "total_score": 6,
+    "questions_answered": 13,
+    "correct_answers": 6,
+    "last_activity": "2025-07-20T00:47:21.766613",
+    "preferred_language": "ro"
+  },
+  "1087968824": {
+    "user_id": 1087968824,
+    "username": "GroupAnonymousBot",
+    "total_score": 0,
+    "questions_answered": 0,
+    "correct_answers": 0,
+    "last_activity": "2025-07-20T04:25:33.317180",
+    "preferred_language": "ro"
+  },
+  "136817688": {
+    "user_id": 136817688,
+    "username": "Channel_Bot",
+    "total_score": 5,
+    "questions_answered": 18,
+    "correct_answers": 5,
+    "last_activity": "2025-07-20T04:32:22.227553",
     "preferred_language": "ro"
   }
 }

@@ -1,0 +1,5342 @@
+[
+  {
+    "question": "Venus of Willendorf is one of the earliest works of art, depicting the planets Mars and Venus embrace in the heavens at night.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Art",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many paint and pastel versions of \"The Scream\" is Norwegian painter Edvard Munch believed to have produced?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "1",
+      "3",
+      "2"
+    ],
+    "category": "Art",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which one of these paintings is not by Caspar David Friedrich?",
+    "correct_answer": "The Black Sea",
+    "incorrect_answers": [
+      "The Sea of Ice",
+      "Wanderer above the Sea of Fog",
+      "The Monk by the Sea"
+    ],
+    "category": "Art",
+    "difficulty": "medium"
+  },
+  {
+    "question": "By which name is Ramon Estevez better known as?",
+    "correct_answer": "Martin Sheen",
+    "incorrect_answers": [
+      "Charlie Sheen",
+      "Ramon Sheen",
+      "Emilio Estevez"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In which of these TV shows did the chef Gordon Ramsay not appear?",
+    "correct_answer": "Auction Hunters",
+    "incorrect_answers": [
+      "Ramsay's Kitchen Nightmares",
+      "Hotel Hell",
+      "Hell's Kitchen"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "By what name is Carlos Estevez better known? ",
+    "correct_answer": "Charlie Sheen",
+    "incorrect_answers": [
+      "Ricky Martin",
+      "Bruno Mars",
+      "Joaquin Phoenix"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+    "correct_answer": "The Party",
+    "incorrect_answers": [
+      "The Weather Girls",
+      "The Pussycat Dolls",
+      "The Cheetah Girls"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In 2014, this new top 100 rapper who featured in \"Computers\" and \"Body Dance\" was arrested in a NYPD sting for murder.",
+    "correct_answer": "Bobby Shmurda",
+    "incorrect_answers": [
+      "DJ Snake",
+      "Swae Lee",
+      "Young Thug"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of these people is NOT a part of the Internet comedy group Mega64?",
+    "correct_answer": "Jon Jafari",
+    "incorrect_answers": [
+      "Rocco Botte",
+      "Derrick Acosta",
+      "Shawn Chatfield"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The eccentric natural philosopher Tycho Brahe kept what as a pet?",
+    "correct_answer": "Moose",
+    "incorrect_answers": [
+      "Dog",
+      "Bear",
+      "Goat"
+    ],
+    "category": "Celebrities",
+    "difficulty": "hard"
+  },
+  {
+    "question": "If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",
+    "correct_answer": "2035",
+    "incorrect_answers": [
+      "2030",
+      "2040",
+      "2045"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which school in Surrey, England did Steve Backshall attend?",
+    "correct_answer": "Collingwood College",
+    "incorrect_answers": [
+      "Tomlinscote School",
+      "Kings International College",
+      "Lyndhurst School"
+    ],
+    "category": "Celebrities",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Named after a character he played in a 1969 film, what is the name of the ski resort in Utah that Robert Redford bought in 1968?",
+    "correct_answer": "Sundance",
+    "incorrect_answers": [
+      "Woodward",
+      "Turner",
+      "Booker"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Gwyneth Paltrow has a daughter named...?",
+    "correct_answer": "Apple",
+    "incorrect_answers": [
+      "Lily",
+      "French",
+      "Dakota"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of these celebrities was not a member of the Jackson 5?",
+    "correct_answer": "Bo Jackson",
+    "incorrect_answers": [
+      "Tito Jackson",
+      "Jermaine Jackson",
+      "Marlon Jackson"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was Donald Trump's first wife?",
+    "correct_answer": "Ivana Zelníčková",
+    "incorrect_answers": [
+      "Melania Knauss",
+      "Marla Maples",
+      "Nancy Davis"
+    ],
+    "category": "Celebrities",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How much weight did Chris Pratt lose for his role as Star-Lord in \"Guardians of the Galaxy\"?",
+    "correct_answer": "60 lbs",
+    "incorrect_answers": [
+      "30 lbs",
+      "50 lbs",
+      "70 lbs"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Gabe Newell was born in which year?",
+    "correct_answer": "1962 ",
+    "incorrect_answers": [
+      "1970",
+      "1960",
+      "1972"
+    ],
+    "category": "Celebrities",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Nikki Diamond portrayed which Gladiator in the 1992 TV show \"Gladiators\"?",
+    "correct_answer": "Scorpio",
+    "incorrect_answers": [
+      "Jet",
+      "Nightshade",
+      "Falcon"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How old was Muhammad Ali when he died?",
+    "correct_answer": "74",
+    "incorrect_answers": [
+      "61",
+      "He's still alive",
+      "56"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Lady Gaga's real name is Stefani Joanne Angelina Germanotta.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Celebrities",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How tall is Tom Cruise?",
+    "correct_answer": "5′ 7″",
+    "incorrect_answers": [
+      "5′ 9″",
+      "5′ 4″",
+      "5′ 5″"
+    ],
+    "category": "Celebrities",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where was Kanye West born?",
+    "correct_answer": "Atlanta, Georgia",
+    "incorrect_answers": [
+      "Chicago, Illinois",
+      "Los Angeles, California",
+      "Detroit, Michigan"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which television show has Dan Gheesling been on?",
+    "correct_answer": "Big Brother",
+    "incorrect_answers": [
+      "Jeopardy",
+      "Survivor",
+      "The Bachelor"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Michael Jackson had a pet python named ‘Crusher’.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does film maker Dan Bell typically focus his films on?",
+    "correct_answer": "Abandoned Buildings and Dead Malls",
+    "incorrect_answers": [
+      "Historic Landmarks",
+      "Action Films",
+      "Documentaries "
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Aubrey Graham is better known as",
+    "correct_answer": "Drake",
+    "incorrect_answers": [
+      "Travis Scott",
+      "Lil Wayne",
+      "2 Chainz"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the cause of Marilyn Monroes suicide?",
+    "correct_answer": "Drug Overdose",
+    "incorrect_answers": [
+      "Knife Attack",
+      "House Fire",
+      "Gunshot"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which famous New York Yankees outfielder did Marilyn Monroe marry?",
+    "correct_answer": "Joe DiMaggio",
+    "incorrect_answers": [
+      "Tino Martinez",
+      "Babe Ruth",
+      "Mason Williams"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When was Elvis Presley born?",
+    "correct_answer": "January 8, 1935",
+    "incorrect_answers": [
+      "December 13, 1931",
+      "July 18, 1940",
+      "April 17, 1938"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which actress's real name was Frances Ethel Gumm?",
+    "correct_answer": "Judy Garland",
+    "incorrect_answers": [
+      "Doris Day",
+      "Julie Andrews",
+      "Marilyn Monroe"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Terry Gilliam is the only American member of the comedy troupe \"Monty Python.\"",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who out of these actresses is the youngest?",
+    "correct_answer": "Kiernan Shipka",
+    "incorrect_answers": [
+      "Ariel Winter",
+      "Emma Watson",
+      "Bonnie Wright"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the religion of famous singer \"Freddie Mercury\"?",
+    "correct_answer": "Zoroastrianism",
+    "incorrect_answers": [
+      "Paganism",
+      "Ashurism",
+      "Judaism"
+    ],
+    "category": "Celebrities",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was James Coburn's last film role before his death?",
+    "correct_answer": "American Gun",
+    "incorrect_answers": [
+      "Monsters Inc",
+      "Texas Rangers",
+      "Snow Dogs"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What year was O.J. Simpson aquitted of his murder charges?",
+    "correct_answer": "1995",
+    "incorrect_answers": [
+      "1992",
+      "1996",
+      "1991"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the real name of \"moot\", founder of the imageboard 4chan?",
+    "correct_answer": "Christopher Poole",
+    "incorrect_answers": [
+      "Mark Zuckerberg",
+      "Allison Harvard",
+      "Catie Wayne"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the name of Marilyn Monroe's first husband?",
+    "correct_answer": "James Dougherty",
+    "incorrect_answers": [
+      "Joe Dimaggio",
+      "Kirk Douglas",
+      "Arthur Miller"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which radio personality calls himself \"The King of All Media\"?",
+    "correct_answer": "Howard Stern",
+    "incorrect_answers": [
+      "Rush Limbaugh",
+      "Pete Tong",
+      "Ryan Seacrest"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year did \"Bob Ross\" die?",
+    "correct_answer": "1995",
+    "incorrect_answers": [
+      "1986",
+      "1989",
+      "1997"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which situation was musician John Lennon assassinated?",
+    "correct_answer": "Attempting to enter the Dakota Apartments building",
+    "incorrect_answers": [
+      "During an impromptu walk through Central Park",
+      "Signing an autograph outside the Record Plant studio",
+      "Waiting outside a music venue in Manhattan following a gig"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Billy Herrington is from which US state?",
+    "correct_answer": "New York",
+    "incorrect_answers": [
+      "Arizona",
+      "California",
+      "Georgia"
+    ],
+    "category": "Celebrities",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which celebrity announced his presidency in 2015?",
+    "correct_answer": "Kanye West",
+    "incorrect_answers": [
+      "Donald Trump",
+      "Leonardo DiCaprio",
+      "Miley Cyrus"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Marilyn Monroe was born on July 1, 1926.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which TV chef wrote an autobiography titled \"Humble Pie\"?",
+    "correct_answer": "Gordon Ramsay",
+    "incorrect_answers": [
+      "Jamie Oliver",
+      "Ainsley Harriott",
+      "Antony Worrall Thompson"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which actress married Michael Douglas in 2000?",
+    "correct_answer": "Catherine Zeta-Jones",
+    "incorrect_answers": [
+      "Ruth Jones",
+      "Pam Ferris",
+      "Sara Sugarman"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Paul McCartney has always used his middle name. What is his real first name? ",
+    "correct_answer": "James",
+    "incorrect_answers": [
+      "John",
+      "Jack",
+      "Justin"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the cause of death for Freddie Mercury?",
+    "correct_answer": "Pneumonia",
+    "incorrect_answers": [
+      "Stomach Cancer",
+      "HIV",
+      "Brain Hemorrhage"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Donald J. Trump's Middle Name is...",
+    "correct_answer": "John",
+    "incorrect_answers": [
+      "Jeff",
+      "Jerald",
+      "Jason"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is \"James Rolfe\" better known as?",
+    "correct_answer": "The Angry Video Game Nerd",
+    "incorrect_answers": [
+      "TotalBiscuit",
+      "PeanutButterGamer",
+      "PewDiePie"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What caused Jake Lloyd who played Anakin Skywalker in The Phantom Menace to quit acting?",
+    "correct_answer": "Bullying",
+    "incorrect_answers": [
+      "Criminal Record",
+      "Nomination for Worst Actor",
+      "Racism"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+    "correct_answer": "Bing Crosby",
+    "incorrect_answers": [
+      "Elvis Presley",
+      "Charlie Chaplin",
+      "Groucho Marx"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Doug Walker's YouTube name?",
+    "correct_answer": "The Nostalgia Critic",
+    "incorrect_answers": [
+      "The Angry Video Game Nerd",
+      "AngryJoeShow",
+      "The Cinema Snob"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Neil Hamburger is played by which comedian?",
+    "correct_answer": "Gregg Turkington",
+    "incorrect_answers": [
+      "Nathan Fielder",
+      "Tim Heidecker",
+      "Todd Glass"
+    ],
+    "category": "Celebrities",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is generally considered to be William Shakespeare's birth date?",
+    "correct_answer": "April 23rd, 1564",
+    "incorrect_answers": [
+      "July 4th, 1409",
+      "September 29th, 1699",
+      "December 1st, 1750"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did radio icon Howard Stern start a job at radio station WNBC?",
+    "correct_answer": "1982",
+    "incorrect_answers": [
+      "1985",
+      "1984",
+      "1995"
+    ],
+    "category": "Celebrities",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does \"hippopotamus\" mean and in what langauge?",
+    "correct_answer": "River Horse (Greek)",
+    "incorrect_answers": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many teeth does an adult rabbit have?",
+    "correct_answer": "28",
+    "incorrect_answers": [
+      "30",
+      "26",
+      "24"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of these species is not extinct?",
+    "correct_answer": "Komodo dragon",
+    "incorrect_answers": [
+      "Japanese sea lion",
+      "Tasmanian tiger",
+      "Saudi gazelle"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What bird is born with claws on its wing digits?",
+    "correct_answer": "Hoatzin",
+    "incorrect_answers": [
+      "Cormorant",
+      "Cassowary",
+      "Secretary bird"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Unlike on most salamanders, this part of a newt is flat?",
+    "correct_answer": "Tail",
+    "incorrect_answers": [
+      "Head",
+      "Teeth",
+      "Feet"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many legs do butterflies have?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "2",
+      "4",
+      "0"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A flock of crows is known as a homicide.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the scientific name of the cheetah?",
+    "correct_answer": "Acinonyx jubatus",
+    "incorrect_answers": [
+      "Panthera onca",
+      "Lynx rufus",
+      "Felis catus"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of a rabbit's abode?",
+    "correct_answer": "Burrow",
+    "incorrect_answers": [
+      "Nest",
+      "Den",
+      "Dray"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "correct_answer": "Seahorse",
+    "incorrect_answers": [
+      "Dolphin",
+      "Whale",
+      "Octopus"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "correct_answer": "Nuts",
+    "incorrect_answers": [
+      "Nothing",
+      "Fruit",
+      "Seaweed"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the collective noun for bears?",
+    "correct_answer": "Sloth",
+    "incorrect_answers": [
+      "Drove",
+      "Tribe",
+      "Husk"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which species is a \"mountain chicken\"?",
+    "correct_answer": "Frog",
+    "incorrect_answers": [
+      "Chicken",
+      "Horse",
+      "Fly"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of these animals is NOT a lizard?",
+    "correct_answer": "Tuatara",
+    "incorrect_answers": [
+      "Komodo Dragon",
+      "Gila Monster",
+      "Green Iguana"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Cashmere is the wool from which kind of animal?",
+    "correct_answer": "Goat",
+    "incorrect_answers": [
+      "Sheep",
+      "Camel",
+      "Llama"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Rabbits are carnivores.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the Gray Wolf's scientific name?",
+    "correct_answer": "Canis Lupus",
+    "incorrect_answers": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the world's longest venomous snake?",
+    "correct_answer": "King Cobra",
+    "incorrect_answers": [
+      "Green Anaconda",
+      "Inland Taipan",
+      "Yellow Bellied Sea Snake"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "For what reason would a spotted hyena \"laugh\"?",
+    "correct_answer": "Nervousness",
+    "incorrect_answers": [
+      "Excitement",
+      "Aggression",
+      "Exhaustion"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Otters have pockets under their arms for carrying their favourite snacks and rocks.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "correct_answer": "Foxes",
+    "incorrect_answers": [
+      "Pigeons",
+      "Bears",
+      "Alligators"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "correct_answer": "Pugs",
+    "incorrect_answers": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the collective noun for rats?",
+    "correct_answer": "Mischief",
+    "incorrect_answers": [
+      "Pack",
+      "Race",
+      "Drift"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The dish Fugu, is made from what family of fish?",
+    "correct_answer": "Pufferfish",
+    "incorrect_answers": [
+      "Bass",
+      "Salmon",
+      "Mackerel"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": [
+      "South Africa",
+      "Australia",
+      "Madagascar"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "By definition, where does an abyssopelagic animal live?",
+    "correct_answer": "At the bottom of the ocean",
+    "incorrect_answers": [
+      "In the desert",
+      "On top of a mountain",
+      "Inside a tree"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The average lifespan of a wildcat is only around 5-6 years. ",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What scientific family does the Aardwolf belong to?",
+    "correct_answer": "Hyaenidae",
+    "incorrect_answers": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the scientific name for the \"Polar Bear\"?",
+    "correct_answer": "Ursus Maritimus",
+    "incorrect_answers": [
+      "Polar Bear",
+      "Ursus Spelaeus",
+      "Ursus Arctos"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "correct_answer": "Drone",
+    "incorrect_answers": [
+      "Soldier",
+      "Worker",
+      "Male"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "\"Kamea,\" the Gilbertese Islander word for dog, is derived from the English phrase \"Come here!\"",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Grumpy Cat's real name?",
+    "correct_answer": "Tardar Sauce",
+    "incorrect_answers": [
+      "Sauce",
+      "Minnie",
+      "Broccoli"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the collective noun for vultures?",
+    "correct_answer": "Wake",
+    "incorrect_answers": [
+      "Ambush",
+      "Building",
+      "Gaze"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the fastest  land animal?",
+    "correct_answer": "Cheetah",
+    "incorrect_answers": [
+      "Lion",
+      "Thomson’s Gazelle",
+      "Pronghorn Antelope"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What type of creature is a Bonobo?",
+    "correct_answer": "Ape",
+    "incorrect_answers": [
+      "Lion",
+      "Parrot",
+      "Wildcat"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+    "correct_answer": "Chordata",
+    "incorrect_answers": [
+      "Echinodermata",
+      "Annelida",
+      "Placazoa"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A slug’s blood is green.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the scientific name of the Budgerigar?",
+    "correct_answer": "Melopsittacus undulatus",
+    "incorrect_answers": [
+      "Nymphicus hollandicus",
+      "Pyrrhura molinae",
+      "Ara macao"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Sea sponges can have hearts.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What colour is the female blackbird?",
+    "correct_answer": "Brown",
+    "incorrect_answers": [
+      "Black",
+      "White",
+      "Yellow"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The internet browser Firefox is named after the Red Panda.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of the following is NOT a venomous snake?",
+    "correct_answer": "Reticulated python",
+    "incorrect_answers": [
+      "Malayan Krait",
+      "Yellow bellied sea snake",
+      "Black mamba"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What type of animal is a natterjack?",
+    "correct_answer": "Toad",
+    "incorrect_answers": [
+      "Bird",
+      "Fish",
+      "Insect"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "correct_answer": "Feliformia",
+    "incorrect_answers": [
+      "Haplorhini",
+      "Caniformia",
+      "Ciconiiformes"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A caterpillar has more muscles than humans do.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Finnish Lapphund dogs were used for herding reindeer.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which species of Brown Bear is not extinct?",
+    "correct_answer": "Syrian Brown Bear",
+    "incorrect_answers": [
+      "California Grizzly Bear",
+      "Atlas Bear",
+      "Mexican Grizzly Bear"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+    "correct_answer": "Mad Cow disease",
+    "incorrect_answers": [
+      "Weil's disease",
+      "Milk fever",
+      "Foot-and-mouth disease"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Platypus is a mammal.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "You can tell the age of a ladybird by counting the spots on his back.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A bear does NOT defecate during hibernation. ",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "An octopus can fit through any hole larger than its beak.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many known living species of hyenas are there?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "8",
+      "2",
+      "6"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of these is a colony of polyps and not a jellyfish?",
+    "correct_answer": "Portuguese Man-of-War",
+    "incorrect_answers": [
+      "Sea Wasp",
+      "Irukandji",
+      "Sea Nettle"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What are the scales on all snakes and most lizards are made of?",
+    "correct_answer": "Keratin",
+    "incorrect_answers": [
+      "Ecdysis",
+      "Epidermis",
+      "Ankyloglossia"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The now extinct species \"Thylacine\" was native to where?",
+    "correct_answer": "Tasmania, Australia",
+    "incorrect_answers": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Zebras are white with black stripes.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Rabbits are rodents.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What color/colour is a polar bear's skin?",
+    "correct_answer": "Black",
+    "incorrect_answers": [
+      "White",
+      "Pink",
+      "Green"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are rhino's horn made of?",
+    "correct_answer": "Keratin",
+    "incorrect_answers": [
+      "Bone",
+      "Ivory",
+      "Skin"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the scientific name for modern day humans?",
+    "correct_answer": "Homo Sapiens",
+    "incorrect_answers": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "correct_answer": "Felidae",
+    "incorrect_answers": [
+      "Felinae",
+      "Felis",
+      "Cat"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "\"Decapods\" are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+    "correct_answer": "Krill",
+    "incorrect_answers": [
+      "Lobsters",
+      "Shrimp",
+      "Crabs"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Kangaroos keep food in their pouches next to their children.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Ceratosaurus, a dinosaur known for having a horn on the top of its nose, is also known to be a decendent of the Tyrannosaurus Rex.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Killer Whale is considered a type of dolphin.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+    "correct_answer": "Hemocyanin",
+    "incorrect_answers": [
+      "Cytochrome",
+      "Iron",
+      "Methionine"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Rabbits can't vomit.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The freshwater amphibian, the Axolotl, can regrow it's limbs.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "correct_answer": "Simien Jackel",
+    "incorrect_answers": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the fastest animal?",
+    "correct_answer": "Peregrine Falcon",
+    "incorrect_answers": [
+      "Golden Eagle",
+      "Cheetah",
+      "Horsefly"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which class of animals are newts members of?",
+    "correct_answer": "Amphibian",
+    "incorrect_answers": [
+      "Fish",
+      "Reptiles",
+      "Mammals"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "correct_answer": "Pan troglodytes",
+    "incorrect_answers": [
+      "Gorilla gorilla",
+      "Pan paniscus",
+      "Panthera leo"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Cats have whiskers under their legs.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of the following is true when alligators are behaving territorially?",
+    "correct_answer": "They bellow while showing their tail and neck",
+    "incorrect_answers": [
+      "Open their jaws while making a clicking noise",
+      "They run full force at the threat",
+      "Slap their tails on the ground"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What do you call a baby bat?",
+    "correct_answer": "Pup",
+    "incorrect_answers": [
+      "Cub",
+      "Chick",
+      "Kid"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "correct_answer": "Murder",
+    "incorrect_answers": [
+      "Pack",
+      "Gaggle",
+      "Herd"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+    "correct_answer": "Capture scent particles",
+    "incorrect_answers": [
+      "Taste the sweet air",
+      "Threaten other species",
+      "Attract female mates"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Hyenas are more closely related to cats than to dogs.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Tigers have one colour of skin despite the stripey fur.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Rabbits can see what's behind themselves without turning their heads.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Animals",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of the following is another name for the \"Poecilotheria Metallica Tarantula\"?",
+    "correct_answer": "Gooty",
+    "incorrect_answers": [
+      "Hopper",
+      "Silver Stripe",
+      "Woebegone"
+    ],
+    "category": "Animals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?",
+    "correct_answer": "Gimli Glider",
+    "incorrect_answers": [
+      "Gimli Microlight",
+      "Gimli Chaser",
+      "Gimli Superb"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The LS2 engine is how many cubic inches?",
+    "correct_answer": "364",
+    "incorrect_answers": [
+      "346",
+      "376",
+      "402"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which car manufacturer created the \"Aventador\"?",
+    "correct_answer": "Lamborghini",
+    "incorrect_answers": [
+      "Ferrari",
+      "Pagani",
+      "Bugatti"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When BMW was established in 1916, it was producing automobiles.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The British Rail Class 700, Class 707 and the Class 717 are part of what train family?",
+    "correct_answer": "Desiro City",
+    "incorrect_answers": [
+      "Networker",
+      "Aventra",
+      "Electrostar"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Mitsubishi Motors has had a 30-year partnership with Jackie Chan, whose movies have prominently featured their vehicles.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Arriva is owned by the Deutsche Bahn.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
+    "correct_answer": "Alfa Romeo",
+    "incorrect_answers": [
+      "Auto Union",
+      "Mercedes Benz",
+      "Bentley"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How much horsepower is produced by the SD40-2 Locomotive?",
+    "correct_answer": "3,000",
+    "incorrect_answers": [
+      "3,200",
+      "2,578",
+      "2,190"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What country was the Trabant 601 manufactured in?",
+    "correct_answer": "East Germany",
+    "incorrect_answers": [
+      "Soviet Union",
+      "Hungary",
+      "France"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What are the cylinder-like parts that pump up and down within the engine?",
+    "correct_answer": "Pistons",
+    "incorrect_answers": [
+      "Leaf Springs",
+      "Radiators",
+      "ABS"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Chevrolet Corvette has always been made exclusively with V8 engines only.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Ferrari has never made a V10 engine for any of its cars.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of these companies does NOT manufacture motorcycles?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Kawasaki",
+      "Yamaha"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the fastest road legal car in the world?",
+    "correct_answer": "Koenigsegg Agera RS",
+    "incorrect_answers": [
+      "Hennessy Venom GT",
+      "Bugatti Veyron Super Sport",
+      "Pagani Huayra BC"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What model was the sports car gifted to Yuri Gagarin by the French government in 1965?",
+    "correct_answer": "Matra Djet",
+    "incorrect_answers": [
+      "Porsche 911",
+      "Alpine A110",
+      "AC Cobra"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "BMW M GmbH is a subsidiary of BMW AG that focuses on car performance.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
+    "correct_answer": "TCAS",
+    "incorrect_answers": [
+      "GPWS",
+      "OCAS",
+      "TAWS"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Automobiles produced by Tesla Motors operate on which form of energy?",
+    "correct_answer": "Electricity",
+    "incorrect_answers": [
+      "Gasoline",
+      "Diesel",
+      "Nuclear"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Honda Motor Corporation originates in Japan",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of these cars is NOT considered one of the 5 Modern Supercars by Ferrari?",
+    "correct_answer": "Testarossa",
+    "incorrect_answers": [
+      "Enzo Ferrari",
+      "F40",
+      "288 GTO"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following is NOT a Russian car manufacturer?",
+    "correct_answer": "BYD",
+    "incorrect_answers": [
+      "Silant",
+      "Dragon",
+      "GAZ"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which one of these chassis codes are used by BMW 3-series?",
+    "correct_answer": "E46",
+    "incorrect_answers": [
+      "E39",
+      "E85",
+      "F10"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where are the cars of the brand \"Ferrari\" manufactured?",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "Romania",
+      "Germany",
+      "Russia"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Italian city is home of the car manufacturer 'Fiat'?",
+    "correct_answer": "Turin",
+    "incorrect_answers": [
+      "Maranello",
+      "Modena",
+      "Rome"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which one is NOT the function of engine oil in car engines?",
+    "correct_answer": "Combustion",
+    "incorrect_answers": [
+      "Lubrication",
+      "Cooling",
+      "Reduce corrosion"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country has the international vehicle registration letter 'A'?",
+    "correct_answer": "Austria",
+    "incorrect_answers": [
+      "Afghanistan",
+      "Australia",
+      "Armenia"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following countries has officially banned the civilian use of dash cams in cars?",
+    "correct_answer": "Austria",
+    "incorrect_answers": [
+      "United States",
+      "Czechia",
+      "South Korea"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What engine is in the Lexus SC400?",
+    "correct_answer": "1UZ-FE",
+    "incorrect_answers": [
+      "2JZ-GTE",
+      "7M-GTE",
+      "5M-GE"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When was Tesla founded?",
+    "correct_answer": "2003",
+    "incorrect_answers": [
+      "2008",
+      "2005",
+      "2007"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?",
+    "correct_answer": "Nissan",
+    "incorrect_answers": [
+      "Honda",
+      "Hyundai",
+      "Subaru"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The General Motors EV1 was the first street-legal production electric vehicle.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which car is the first mass-produced hybrid vehicle?",
+    "correct_answer": "Toyota Prius",
+    "incorrect_answers": [
+      "Chevrolet Volt",
+      "Honda Fit",
+      "Peugeot 308 R HYbrid"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which one of the following is NOT a sub-company of the Volkswagen Group?",
+    "correct_answer": "Opel",
+    "incorrect_answers": [
+      "Porsche",
+      "Bugatti",
+      "Bentley"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What UK Train does NOT go over 125MPH?",
+    "correct_answer": "Sprinter",
+    "incorrect_answers": [
+      "Class 43",
+      "Javelin",
+      "Pendolino"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of the following car models has been badge-engineered (rebadged) the most?",
+    "correct_answer": "Isuzu Trooper",
+    "incorrect_answers": [
+      "Holden Monaro",
+      "Suzuki Swift",
+      "Chevy Camaro"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which car tire manufacturer is famous for its \"Eagle\" brand of tires, and is the official tire supplier of NASCAR?",
+    "correct_answer": "Goodyear",
+    "incorrect_answers": [
+      "Pirelli",
+      "Bridgestone",
+      "Michelin"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When was Cadillac founded?",
+    "correct_answer": "1902",
+    "incorrect_answers": [
+      "1964",
+      "1898",
+      "1985"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?",
+    "correct_answer": "Volvo",
+    "incorrect_answers": [
+      "Ferrari",
+      "Ford",
+      "Renault"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of Nissan's most popular electric car?",
+    "correct_answer": "Leaf",
+    "incorrect_answers": [
+      "Tree",
+      "Deer",
+      "Roots"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The LS3 engine is how many cubic inches?",
+    "correct_answer": "376",
+    "incorrect_answers": [
+      "346",
+      "364",
+      "427"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Italian automaker Lamborghini uses what animal as its logo?",
+    "correct_answer": "Bull",
+    "incorrect_answers": [
+      "Bat",
+      "Horse",
+      "Snake"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?",
+    "correct_answer": "Cherry",
+    "incorrect_answers": [
+      "Sunny",
+      "Bluebird",
+      "Skyline"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The majority of Subaru vehicles are made in China.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The full English name of the car manufacturer BMW is Bavarian Motor Works",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?",
+    "correct_answer": "Faulty ignition switch",
+    "incorrect_answers": [
+      "Malfunctioning gas pedal",
+      "Breaking fuel lines",
+      "Faulty brake pads"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which car brand does NOT belong to General Motors?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Buick",
+      "Cadillac",
+      "Chevrolet"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Audi does not use Haldex based all wheel drive system?",
+    "correct_answer": "Audi A8",
+    "incorrect_answers": [
+      "Audi TT",
+      "Audi S3",
+      "Audi A3"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which animal features on the logo for Abarth, the motorsport division of Fiat?",
+    "correct_answer": "Scorpion",
+    "incorrect_answers": [
+      "Snake",
+      "Bull",
+      "Horse"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Volkswagen's legendary VR6 engine has cylinders positioned at what degree angle?",
+    "correct_answer": "15 Degree",
+    "incorrect_answers": [
+      "30 Degree",
+      "45 Degree",
+      "90 Degree"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of the following FIA Rally cars was approved for use in the Group B class first? ",
+    "correct_answer": "Porsche 911 Turbo",
+    "incorrect_answers": [
+      "Audi Quattro A2",
+      "BMW M1",
+      "Lancia Rally 037"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Japanese company is the world's largest manufacturer of motorcycles?",
+    "correct_answer": "Honda",
+    "incorrect_answers": [
+      "Yamaha",
+      "Suzuki",
+      "Kawasaki"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of these car models are produced by Lamborghini?",
+    "correct_answer": "Aventador",
+    "incorrect_answers": [
+      "Huayra",
+      "918",
+      "Chiron"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which supercar company is from Sweden?",
+    "correct_answer": "Koenigsegg",
+    "incorrect_answers": [
+      "Bugatti",
+      "Lamborghini",
+      "McLaren"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in \"The Railway Series\"?",
+    "correct_answer": "LB&SCR A1X",
+    "incorrect_answers": [
+      "LB&SCR E2",
+      "LB&SCR J1",
+      "LB&SCR D1"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The term \"GTO\" was originated by Ferrari?",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of the following car manufacturers had a war named after it?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Ford",
+      "Volkswagen"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Variable Valve Timing technology is used by BMW?",
+    "correct_answer": "VANOS",
+    "incorrect_answers": [
+      "VVT-iw",
+      "VVEL",
+      "MultiAir"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What country is the Hussarya supercar, made by the car manufacturer \"Arrinera\", assembled in?",
+    "correct_answer": "Poland",
+    "incorrect_answers": [
+      "China",
+      "Sweden",
+      "Italy"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air/fuel mixture into the engine?",
+    "correct_answer": "Camshaft",
+    "incorrect_answers": [
+      "Piston",
+      "Drive shaft",
+      "Crankshaft"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which car tire manufacturer is famous for its \"P Zero\" line?",
+    "correct_answer": "Pirelli",
+    "incorrect_answers": [
+      "Goodyear",
+      "Bridgestone",
+      "Michelin"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Japanese Shinkansen beat the French TGV's speed record for fastest electric rail train.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "There is a Rolls-Royce model called the 'Spectre'",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What manufacturer made the car used in Back to the Future?",
+    "correct_answer": "DeLorean",
+    "incorrect_answers": [
+      "Ford",
+      "Toyota",
+      "Daihatsu"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The snowmobile was invented by Canadian Joseph-Armand Bombardier in 1937.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Jaguar Cars was previously owned by which car manfacturer?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Chrysler",
+      "General Motors",
+      "Fiat"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The LS1 engine is how many cubic inches?",
+    "correct_answer": "346",
+    "incorrect_answers": [
+      "350",
+      "355",
+      "360"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Bugatti was an Italian car manufacturer.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:",
+    "correct_answer": "0.1m",
+    "incorrect_answers": [
+      "1m",
+      "10m ",
+      "100m"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which one of the following is not made by Ford?",
+    "correct_answer": "Camry",
+    "incorrect_answers": [
+      "Fusion",
+      "Model A",
+      "F-150"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following vehicles featured a full glass roof at base model?",
+    "correct_answer": "Renault Avantime",
+    "incorrect_answers": [
+      "Chevy Volt",
+      "Mercedes-Benz A-Class",
+      "Honda Odyssey"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The LS7 engine is how many cubic inches?",
+    "correct_answer": "427",
+    "incorrect_answers": [
+      "346",
+      "364",
+      "376"
+    ],
+    "category": "Vehicles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In 1993 Swedish car manufacturer Saab experimented with replacing the steering wheel with a joystick in a Saab 9000.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of these is NOT a car model produced by Malaysian car manufacturer Proton?",
+    "correct_answer": "Kelisa",
+    "incorrect_answers": [
+      "Saga",
+      "Perdana",
+      "Inspira"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year did the Chevrolet LUV mini truck make its debut?",
+    "correct_answer": "1972",
+    "incorrect_answers": [
+      "1982",
+      "1975",
+      "1973"
+    ],
+    "category": "Vehicles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What do the 4 Rings in Audi's Logo represent?",
+    "correct_answer": "Previously independent automobile manufacturers",
+    "incorrect_answers": [
+      "States in which Audi makes the most sales",
+      "Main cities vital to Audi",
+      "Countries in which Audi makes the most sales"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following passenger jets is the longest?",
+    "correct_answer": "Boeing 747-8",
+    "incorrect_answers": [
+      "Airbus A350-1000",
+      "Airbus A330-200",
+      "Boeing 787-10"
+    ],
+    "category": "Vehicles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the Marvel Universe, the planet of Svartalfheim is home to what race?",
+    "correct_answer": "Dark Elves",
+    "incorrect_answers": [
+      "Frost Giants",
+      "Kronans",
+      "Skrulls"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which universe crossover was introduced in the \"Sonic the Hedgehog\" comic issue #247?",
+    "correct_answer": "Mega Man",
+    "incorrect_answers": [
+      "Super Mario Brothers",
+      "Alex Kidd",
+      "Super Monkey Ball"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who created Ultron of Earth-616?",
+    "correct_answer": "Henry Pym",
+    "incorrect_answers": [
+      "Amadeus Cho",
+      "Tony Stark",
+      "Reed Richards"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Batman trolls the online chat rooms, what alias does he use?",
+    "correct_answer": "JonDoe297",
+    "incorrect_answers": [
+      "iAmBatman",
+      "BWayne13",
+      "BW1129"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Doom Patrol member was a later addition, first appearing in 1989?",
+    "correct_answer": "Crazy Jane",
+    "incorrect_answers": [
+      "Elast-Girl",
+      "Robotman",
+      "Negative Man"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the DC Comics 2016 reboot, Rebirth, which speedster escaped from the Speed Force after he had been erased from existance?",
+    "correct_answer": "Wally West",
+    "incorrect_answers": [
+      "Johnny Quick",
+      "Jay Garrick",
+      "Eobard Thawne"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+    "correct_answer": "Zodiac",
+    "incorrect_answers": [
+      "Scorpio",
+      "Tiger Mafia",
+      "The Union"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"Homestuck\" what is Dave Strider's guardian?",
+    "correct_answer": "Bro",
+    "incorrect_answers": [
+      "Becquerel",
+      "Doc Scratch",
+      "Halley"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the Hellboy universe, who founded the BPRD?",
+    "correct_answer": "Trevor Bruttenholm",
+    "incorrect_answers": [
+      "Kate Corrigan",
+      "Johann Kraus",
+      "Benjamin Daimio"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the designation given to the Marvel Cinematic Universe?",
+    "correct_answer": "Earth-199999",
+    "incorrect_answers": [
+      "Earth-616",
+      "Earth-10005",
+      "Earth-2008"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Bionicle, who was formerly a Av-Matoran and is now the Toa of Light?",
+    "correct_answer": "Takua",
+    "incorrect_answers": [
+      "Jaller",
+      "Vakama",
+      "Tahu"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who authored The Adventures of Tintin?",
+    "correct_answer": "Hergé",
+    "incorrect_answers": [
+      "E.P. Jacobs",
+      "Rin Tin Tin",
+      "Chic Young"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the webcomic \"Ava's Demon\", what sin is \"Nevy Nervine\" based off of? ",
+    "correct_answer": "Envy ",
+    "incorrect_answers": [
+      "Sloth",
+      "Wrath ",
+      "Lust"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The main six year old protagonist in Calvin and Hobbes is named after what theologian?",
+    "correct_answer": "John Calvin",
+    "incorrect_answers": [
+      "Calvin Klein",
+      "Calvin Coolidge",
+      "Phillip Calvin McGraw"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Homestuck character Gamzee's last name?",
+    "correct_answer": "Makara",
+    "incorrect_answers": [
+      "Makera",
+      "Makare",
+      "Makrea"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Batman sidekick is the son of Talia al Ghul?",
+    "correct_answer": "Damian Wayne",
+    "incorrect_answers": [
+      "Dick Grayson",
+      "Tim Drake",
+      "Jason Todd"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which pulp hero made appearances in Hellboy and BPRD comics before getting his own spin-off?",
+    "correct_answer": "Lobster Johnson",
+    "incorrect_answers": [
+      "Roger the Homunculus",
+      "The Spider",
+      "The Wendigo"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Calvin and Hobbes, what is the name of the babysitter's boyfriend?",
+    "correct_answer": "Charlie",
+    "incorrect_answers": [
+      "Dave",
+      "Charles",
+      "Nathaniel"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the webcomic Homestuck, the first character introduced is Dave Strider.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which issue of the \"Sonic the Hedgehog\" comic did Scourge the Hedgehog make his first appearance?",
+    "correct_answer": "Sonic the Hedgehog #11",
+    "incorrect_answers": [
+      "Sonic Universe #32",
+      "Sonic the Hedgehog #161",
+      "Sonic the Hedgehog #47"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+    "correct_answer": "Thomas Hobbes",
+    "incorrect_answers": [
+      "David Hobbes",
+      "John Hobbes",
+      "Nathaniel Hobbes"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the Homestuck Series, what is the alternate name for the Kingdom of Lights?",
+    "correct_answer": "Prospit",
+    "incorrect_answers": [
+      "No Name",
+      "Golden City",
+      "Yellow Moon"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is Batman?",
+    "correct_answer": "Bruce Wayne",
+    "incorrect_answers": [
+      "Clark Kent",
+      "Barry Allen",
+      "Tony Stark"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the first American Vampire (Scott Snyder's American Vampire)?",
+    "correct_answer": "Skinner Sweet",
+    "incorrect_answers": [
+      "Hattie Hargrove",
+      "Pearl Jones",
+      "James \"Jim\" Book"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the real name of the \"Master Of Magnetism\" Magneto?",
+    "correct_answer": "Max Eisenhardt",
+    "incorrect_answers": [
+      "Charles Xavier",
+      "Pietro Maximoff",
+      "Johann Schmidt"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the comic book \"Archie\", Betty is friends with Veronica because she is rich.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the inspiration for Cuthbert Calculus in the Tintin series?",
+    "correct_answer": "Auguste Picard",
+    "incorrect_answers": [
+      "Jacques Piccard",
+      "Will Morris",
+      "J. Cecil Maby"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which \"Green Arrow\" sidekick commonly wears a baseball cap?",
+    "correct_answer": "Roy Harper",
+    "incorrect_answers": [
+      "Black Canary",
+      "Emiko Queen",
+      "Dick Grayson"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are the Three Virtues of Bionicle?",
+    "correct_answer": "Unity, Duty, Destiny",
+    "incorrect_answers": [
+      "Build, Play, Change",
+      "Work, Play, Live",
+      "Forge, Build, Fight"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the Batman comic series \"The Killing Joke\"?",
+    "correct_answer": "Alan Moore",
+    "incorrect_answers": [
+      "Bill Finger",
+      "Frank Miller",
+      "Jerry Siegel"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What's the race of Invincible's father?",
+    "correct_answer": "Viltrumite",
+    "incorrect_answers": [
+      "Kryptonian",
+      "Kree",
+      "Irken"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The \"Pepe\" meme originated from a comic drawn by Matt Furie called \"Boy's Club\"?",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+    "correct_answer": "Green Arrow",
+    "incorrect_answers": [
+      "Superman",
+      "Batman",
+      "Steve Trevor"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Hellboy's true name?",
+    "correct_answer": "Anung Un Rama",
+    "incorrect_answers": [
+      "Right Hand of Doom",
+      "Ogdru Jahad",
+      "Azzael"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+    "correct_answer": "Antimony",
+    "incorrect_answers": [
+      "Bismuth",
+      "Mercury",
+      "Cobalt"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year did the first \"The Walking Dead\" comic come out?",
+    "correct_answer": "2003",
+    "incorrect_answers": [
+      "2001",
+      "2006",
+      "1999"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What's the weakness of american vampires (Scott Snyder's American Vampire)?",
+    "correct_answer": "Gold",
+    "incorrect_answers": [
+      "Sunlight",
+      "Wood",
+      "Silver"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What otherworldly land does Thor come from?",
+    "correct_answer": "Asgard",
+    "incorrect_answers": [
+      "Midgard",
+      "Jotunheim",
+      "Sovengarde"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Black Hammer, what city did the heroes save from the Anti-God?",
+    "correct_answer": "Spiral City",
+    "incorrect_answers": [
+      "Mega-City One",
+      "Rockwood",
+      "Star City"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Marvel comics, which of the following is not one of the infinity stones?",
+    "correct_answer": "Energy",
+    "incorrect_answers": [
+      "Time",
+      "Power",
+      "Soul"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+    "correct_answer": "Calvin and Hobbes",
+    "incorrect_answers": [
+      "Winnie the Pooh",
+      "Albert and Pogo",
+      "Peanuts"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Calvin and Hobbes, what is the name of the principal at Calvin's school?",
+    "correct_answer": "Mr. Spittle",
+    "incorrect_answers": [
+      "Mr. Boreman",
+      "Mr. Spitling",
+      "Mr. Moe"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"Sonic the Hedgehog\" comic, who was the creator of Roboticizer? ",
+    "correct_answer": "Professor Charles the Hedgehog",
+    "incorrect_answers": [
+      "Julian Robotnik",
+      "Ivo Robotnik",
+      "Snively Robotnik"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The X-Men's Storm and Nightcrawler were originally planned to be characters in DC Comics' Legion of Super-Heroes.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What's the name of Batman's parents?",
+    "correct_answer": "Thomas & Martha",
+    "incorrect_answers": [
+      "Joey & Jackie",
+      "Jason & Sarah",
+      "Todd & Mira"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The success of DC Comics' Swamp Thing, Sandman, and other books in a similar style, led to the creation of what new imprint in 1993?",
+    "correct_answer": "Vertigo",
+    "incorrect_answers": [
+      "Impact",
+      "New Universe",
+      "Red Circle"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Better known by his nickname Logan, what is Wolverine's birth name?",
+    "correct_answer": "James Howlett",
+    "incorrect_answers": [
+      "Logan Wolf",
+      "Thomas Wilde",
+      "John Savage"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When was the Garfield comic first published?",
+    "correct_answer": "1978",
+    "incorrect_answers": [
+      "1982",
+      "1973",
+      "1988"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What are the names of the two \"Canon fan trolls\" in \"Homestuck\"?",
+    "correct_answer": "Mierfa Durgas and Nektan Whelan",
+    "incorrect_answers": [
+      "The Wrycrown and Voksea Olkido",
+      "Aikter Frekik and Xagrai Ollomu",
+      "Grekei Ceknux and Riya Camacho"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to their longtime nickname, what kind of \"duo\" are Batman & Robin?",
+    "correct_answer": "Dynamic",
+    "incorrect_answers": [
+      "Dangerous",
+      "Dynastic",
+      "Delirious"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"Homestuck\" the \"Kingdom of Darkness\" is also known as?",
+    "correct_answer": "Derse",
+    "incorrect_answers": [
+      "Skaia",
+      "Prospit",
+      "The Medium"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which one of these superhero teams appears in the Invincible comics?",
+    "correct_answer": "Guardians of the Globe",
+    "incorrect_answers": [
+      "Avengers",
+      "Justice League",
+      "Teenage Mutant Ninja Turtles"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Calvin and Hobbes, what is the name of Susie's stuffed rabbit?",
+    "correct_answer": "Mr. Bun",
+    "incorrect_answers": [
+      "Mr. Bunbun",
+      "Mr. Rabbit",
+      "Mr. Hoppy"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Pre-Super Genesis universe of \"Sonic the Hedgehog\" comic, what was the name of  Sally Acorn's brother?",
+    "correct_answer": "Elias Acorn",
+    "incorrect_answers": [
+      "Maximillian Acorn",
+      "Alexis Acorn",
+      "Frederick Acorn"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine's bones and claws?",
+    "correct_answer": "Adamantium",
+    "incorrect_answers": [
+      "Titanium",
+      "Vibranium",
+      "Carbonadium"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When was Marvel Comics founded?",
+    "correct_answer": "1939",
+    "incorrect_answers": [
+      "1932",
+      "1951",
+      "1936"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the name of the first Robin in the Batman comics?",
+    "correct_answer": "Dick Grayson",
+    "incorrect_answers": [
+      "Bruce Wayne",
+      "Jason Todd",
+      "Tim Drake"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year was the first San Diego Comic-Con?",
+    "correct_answer": "1970",
+    "incorrect_answers": [
+      "2000",
+      "1990",
+      "1985"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the \"Archie\" comics, who was Jughead's first girlfriend?",
+    "correct_answer": "Joani",
+    "incorrect_answers": [
+      "Ethel",
+      "Debbi",
+      "Margret"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the comics, which Sonic character took command of the Dark Legion after Luger's assassination?",
+    "correct_answer": "Lien-Da",
+    "incorrect_answers": [
+      "Kragok",
+      "Dimitri",
+      "Remington"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what Homestuck Update was [S] Game Over released?",
+    "correct_answer": "October 25th, 2014",
+    "incorrect_answers": [
+      "April 13th, 2009",
+      "April 8th, 2012",
+      "August 28th, 2003"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Black Hammer, what dimension does Colonel Weird travel through?",
+    "correct_answer": "Para-Zone",
+    "incorrect_answers": [
+      "Hyperspace",
+      "Mirror Universe",
+      "Phantom Zone"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "This Marvel superhero is often called \"The man without fear\".",
+    "correct_answer": "Daredevil",
+    "incorrect_answers": [
+      "Thor",
+      "Wolverine",
+      "Hulk"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the alter-ego of the DC comics character \"Superman\"?",
+    "correct_answer": "Clark Kent",
+    "incorrect_answers": [
+      "Bruce Wayne",
+      "Arthur Curry",
+      "John Jones"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Deadpool's identity is Slade Wilson.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",
+    "correct_answer": "Scarecrow",
+    "incorrect_answers": [
+      "Bane",
+      "Calendar Man",
+      "Clayface"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of the following rings from the DC Comics' \"Lantern Corps\" are classified as Parasitic?",
+    "correct_answer": "Indigo (Compassion)",
+    "incorrect_answers": [
+      "Green (Willpower)",
+      "White (Life)",
+      "Yellow (Fear)"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+    "correct_answer": "Daniel Dreiberg",
+    "incorrect_answers": [
+      "Nelson Gardner",
+      "Hollis Mason",
+      "Adrian Veidt"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of these game-based comics were published in 2011 by DC Comics?",
+    "correct_answer": "Infamous",
+    "incorrect_answers": [
+      "Left 4 Dead: The Sacrifice",
+      "Prototype",
+      "Kane & Lynch"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?",
+    "correct_answer": "Blonde",
+    "incorrect_answers": [
+      "Auburn",
+      "Brown",
+      "Black"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the Hellboy universe, what was Abe Sapien's birth name?",
+    "correct_answer": "Langdon Everett Caul",
+    "incorrect_answers": [
+      "Lord Baltimore",
+      "Sir Edward Grey",
+      "Landis Pope"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?",
+    "correct_answer": "Muhammad Ali",
+    "incorrect_answers": [
+      "Mike Tyson",
+      "Sylvester Stallone",
+      "Arnold Schwarzenegger"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the creator of the comic series \"The Walking Dead\"?",
+    "correct_answer": "Robert Kirkman",
+    "incorrect_answers": [
+      "Stan Lee",
+      "Malcolm Wheeler-Nicholson",
+      "Robert Crumb"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the full first name of the babysitter in Calvin and Hobbes?",
+    "correct_answer": "Rosalyn",
+    "incorrect_answers": [
+      "Rose",
+      "Ruby",
+      "Rachel"
+    ],
+    "category": "Entertainment%3A%20Comics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When was the Tamagotchi digital pet released?",
+    "correct_answer": "1996",
+    "incorrect_answers": [
+      "1989",
+      "1992",
+      "1990"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does SSD stand for in the context of computer storage?",
+    "correct_answer": " Solid State Drive",
+    "incorrect_answers": [
+      "Software Storage Device",
+      "Super Speed Data",
+      "Secure System Disk"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+    "correct_answer": "Challenger and Columbia",
+    "incorrect_answers": [
+      "Enterprise and Atlantis",
+      "Discovery and Endeavour",
+      "None of the Above"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which company designed the \"Betamax\" video cassette format?",
+    "correct_answer": "Sony",
+    "incorrect_answers": [
+      "Panasonic",
+      "LG",
+      "Fujitsu"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does GPS stand for?",
+    "correct_answer": "Global Positioning System",
+    "incorrect_answers": [
+      "Global Personal System",
+      "General Positioning System",
+      "General Personal Satellite"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who built the first laser?",
+    "correct_answer": "Theodore Harold Maiman",
+    "incorrect_answers": [
+      "Nikola Tesla",
+      "Jack Kilby",
+      "Edith Clarke"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of a simple machine that is made up of a stiff arm that can move freely around a fixed point?",
+    "correct_answer": "Lever",
+    "incorrect_answers": [
+      "Wedge",
+      "Screw",
+      "Pulley"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+    "correct_answer": "Typewriters",
+    "incorrect_answers": [
+      "Blenders",
+      "Ceiling Fans",
+      "Door Knobs"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When was the iPhone released?",
+    "correct_answer": "2007",
+    "incorrect_answers": [
+      "2005",
+      "2006",
+      "2004"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which company developed the Hololens?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": [
+      "HTC",
+      "Oculus",
+      "Tobii"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When did the CD begin to appear on the consumer market?",
+    "correct_answer": "1982",
+    "incorrect_answers": [
+      "1992",
+      "1972",
+      "1962"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "During the  early parts of the Vietnam War the M16 had a record for having bad reliability",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What are the base station trackers used for the HTC Vive called?",
+    "correct_answer": "Lighthouse",
+    "incorrect_answers": [
+      "Motion",
+      "Constellation ",
+      "Trackers"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which virtual assistant is developed by Amazon?",
+    "correct_answer": "Alexa",
+    "incorrect_answers": [
+      "Google Assistant",
+      "Siri",
+      "Cortana"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Mobile hardware and software company \"Blackberry Limited\" was founded in which country?",
+    "correct_answer": "Canada",
+    "incorrect_answers": [
+      "Norway",
+      "United States of America",
+      "United Kingdom"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+    "correct_answer": "Courage",
+    "incorrect_answers": [
+      "Innovation",
+      "Revolution",
+      "Bravery"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Microphones can be used not only to pick up sound, but also to project sound similar to a speaker.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who patented a steam engine that produced continuous rotary motion?",
+    "correct_answer": "James Watt",
+    "incorrect_answers": [
+      "Nikola Tesla",
+      "Albert Einstein",
+      "Alessandro Volta"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?",
+    "correct_answer": "2012",
+    "incorrect_answers": [
+      "2010",
+      "2011",
+      "2013"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The communication protocol NFC stands for Near-Field Control.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What round is a classic AK-47 chambered in?",
+    "correct_answer": "7.62x39mm",
+    "incorrect_answers": [
+      "7.62x51mm",
+      "5.56x45mm",
+      "5.45x39mm"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which round does a WW2 M1 Garand fire?",
+    "correct_answer": ".30-06",
+    "incorrect_answers": [
+      ".308",
+      "7.62",
+      "7.62x51mm"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following is not a type of computer mouse?",
+    "correct_answer": "Smoothie mouse",
+    "incorrect_answers": [
+      "Drum mouse",
+      "Trackball mouse",
+      "Optical mouse"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When was the DVD invented?",
+    "correct_answer": "1995",
+    "incorrect_answers": [
+      "2000",
+      "1990",
+      "1980"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the \"Mitsubishi Wakamaru\"?",
+    "correct_answer": "A robot",
+    "incorrect_answers": [
+      "A pickup truck",
+      "An motorcycle",
+      "A motorboat"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following cellular device companies is NOT headquartered in Asia?",
+    "correct_answer": "Nokia",
+    "incorrect_answers": [
+      "LG Electronics",
+      "Samsung",
+      "HTC"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which gaming console is developed by Sony?",
+    "correct_answer": "PlayStation",
+    "incorrect_answers": [
+      "Xbox",
+      "Atari",
+      "Nintendo Switch"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of the following is used to measure blood pressure?",
+    "correct_answer": "Sphygmomanometer",
+    "incorrect_answers": [
+      "Barometer",
+      "Ruler",
+      "Haemoerythrometer"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which company manufactured the iconic TR-808 drum machine?",
+    "correct_answer": "Roland",
+    "incorrect_answers": [
+      "Technics",
+      "Korg",
+      "Casio"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following is the standard THX subwoofer crossover frequency?",
+    "correct_answer": "80 Hz",
+    "incorrect_answers": [
+      "70 Hz",
+      "90 Hz",
+      "100 Hz"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The term \"battery\" to describe an electrical storage device was coined by?",
+    "correct_answer": "Benjamin Franklin",
+    "incorrect_answers": [
+      "Nikola Tesla",
+      "Luigi Galvani",
+      " Alessandro Volta"
+    ],
+    "category": "Science%3A%20Gadgets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the series JoJo's Bizarre Adventure, which main character makes the greatest number of recurring appearances?",
+    "correct_answer": "Jotaro Kujo",
+    "incorrect_answers": [
+      "Giorno Giovanna",
+      "Joseph Joestar",
+      "Josuke Higashikata"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who wrote and directed the animated movie \"Spirited Away\" (2001)?",
+    "correct_answer": "Hayao Miyazaki",
+    "incorrect_answers": [
+      "Isao Takahata",
+      "Mamoru Hosoda",
+      "Hidetaka Miyazaki"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was given the title \"Full Metal\" in the anime series \"Full Metal Alchemist\"?",
+    "correct_answer": "Edward Elric",
+    "incorrect_answers": [
+      "Alphonse Elric",
+      "Van Hohenheim",
+      "Izumi Curtis"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the anime series \"Full Metal Alchemist\", what do Alchemists consider the greatest taboo?",
+    "correct_answer": "Human Transmutation ",
+    "incorrect_answers": [
+      "Transmuting Lead Into Gold",
+      "Using Alchemy For Crime ",
+      "Preforming Without A Permit"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the Author of the manga Uzumaki?",
+    "correct_answer": "Junji Ito",
+    "incorrect_answers": [
+      "\tNoboru Takahashi",
+      "Akira Toriyama",
+      "Masashi Kishimoto"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The character Momonga from the \"Overlord\" series orders his servants to call him by what name?",
+    "correct_answer": "Ainz Ooal Gown",
+    "incorrect_answers": [
+      "Master",
+      "Yggdrasil",
+      "Kugane Maruyama"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Ikki Kurogane is known by what nickname at the beginning of \"Chivalry of a Failed Knight\"?",
+    "correct_answer": "Worst One",
+    "incorrect_answers": [
+      "Another One",
+      "Blazer",
+      "Princess"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Medaka Kurokami from \"Medaka Box\" has what abnormality?",
+    "correct_answer": "The End",
+    "incorrect_answers": [
+      "Perfection",
+      "Sandbox",
+      "Fairness"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The character Plum from \"No Game No Life\" is a girl.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Ms. Kobayashi's Dragon Maid, who is Kobayashi's maid?",
+    "correct_answer": "Tohru",
+    "incorrect_answers": [
+      "Lucoa",
+      "Kanna",
+      "Elma"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"JoJo's Bizarre Adventure\", which of the following Stands does NOT have a time-based ability?",
+    "correct_answer": "20th Century Boy",
+    "incorrect_answers": [
+      "Made in Heaven",
+      "Star Platinum",
+      "The World"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The animated film \"Spirited Away\" won the Academy Award for Best Animated Feature at the 75th Academy Awards in 2003.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What caused the titular mascot of Yo-Kai Watch, Jibanyan, to become a yokai?",
+    "correct_answer": "Being run over by a truck",
+    "incorrect_answers": [
+      "Ate one too many chocobars",
+      "Through a magical ritual",
+      "When he put on the harmaki"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who voices \"Shou Suzuki\" in the English dub of \"Mob Psycho 100\"?",
+    "correct_answer": "Casey Mongillo",
+    "incorrect_answers": [
+      "Ben Diskin",
+      "Chris Niosi",
+      "David Naughton"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When was the first episode of Soul Eater released?",
+    "correct_answer": "2008",
+    "incorrect_answers": [
+      "2003",
+      "2005",
+      "2011"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Akatsuki's subclass in \"Log Horizon\" is what?",
+    "correct_answer": " Tracker",
+    "incorrect_answers": [
+      "Assassin",
+      "Scribe",
+      "Apprentice"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In \"A Certain Magical Index,\" what is Accelerator able to control?",
+    "correct_answer": "Vectors",
+    "incorrect_answers": [
+      "Velocity",
+      "Quantums",
+      "Wormholes"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Gosho Aoyama Made This Series: (Detective Conan / Case Closed!)",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the \"Toaru Kagaku no Railgun\" anime,  espers can only reach a maximum of level 6 in their abilities.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The anime Attack on Titan was directed by Tetsurō Araki, the same person who directed the anime Highschool of the Dead.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What song plays in the ending credits of the anime \"Ergo Proxy\"?",
+    "correct_answer": "Paranoid Android",
+    "incorrect_answers": [
+      "Sadistic Summer",
+      "Bittersweet Symphony",
+      "Mad World"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Gatomon's name in the original Japanese version of Digimon Adventure?",
+    "correct_answer": "Tailmon",
+    "incorrect_answers": [
+      "Pawmon",
+      "Catmon",
+      "Nekomon"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"A Certain Scientific Railgun\", how many \"sisters\" did Accelerator have to kill to achieve the rumored level 6?",
+    "correct_answer": "20,000",
+    "incorrect_answers": [
+      "128",
+      "10,000",
+      "5,000"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of these anime have over 7,500 episodes?",
+    "correct_answer": "Sazae-san",
+    "incorrect_answers": [
+      "Naruto",
+      "One Piece",
+      "Chibi Maruko-chan"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the 1988 film \"Akira\", Tetsuo ends up destroying Tokyo.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the \"To Love-Ru\" series, Peke is considered a female robot.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "\"Silhouette\", a song performed by the group 'KANA-BOON' is featured as the sixteenth opening of which anime?",
+    "correct_answer": "Naruto: Shippūden",
+    "incorrect_answers": [
+      "One Piece",
+      "Naruto",
+      "Gurren Lagann"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The main protagonist of the fourth part of JoJo's Bizarre Adventure is which of the following?",
+    "correct_answer": "Josuke Higashikata",
+    "incorrect_answers": [
+      "Yoshikage kira",
+      "Koichi Hirose",
+      "Joey JoJo"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the true moon princess in Sailor Moon?",
+    "correct_answer": "Sailor Moon",
+    "incorrect_answers": [
+      "Sailor Venus",
+      "Sailor Mars",
+      "Sailor Jupiter"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the anime \"Mr. Osomatsu\", how many brothers does Osomatsu-san have?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "6",
+      "7",
+      "4"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What colour hair does the main character of the Yu-Gi-Oh! original anime series have?",
+    "correct_answer": "Red, black and yellow",
+    "incorrect_answers": [
+      "Red, yellow and green",
+      "Red, black and green",
+      "Red, purple and blue"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the stuffed lion in Bleach?",
+    "correct_answer": "Kon",
+    "incorrect_answers": [
+      "Jo",
+      "Urdiu",
+      "Chad"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which JoJo's Bizarre Adventure character possesses the Stand named Silver Chariot?",
+    "correct_answer": "Jean Pierre Polnareff",
+    "incorrect_answers": [
+      "Noriaki Kakyoin",
+      "Hol Horse",
+      "Hermes Costello"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"One Piece\", which one of the following is NOT an Ancient Weapon?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": [
+      "Uranus",
+      "Poseidon",
+      "Pluton"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the \"Re:Zero\" manga series, which of the following Sin Archbishops eats Rem's existence?",
+    "correct_answer": "Ley Batenkaitos",
+    "incorrect_answers": [
+      "Roy Alphard",
+      "Petelgeuse Romanee-Conti",
+      "Louis Arneb"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The characters of \"Log Horizon\" are trapped in what game?",
+    "correct_answer": "Elder Tale",
+    "incorrect_answers": [
+      "Sword Art Online",
+      "Tower Unite",
+      "Yggdrasil"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The heroine of \"Humanity Has Declined\" is a mediator between humans and what?",
+    "correct_answer": "Fairies",
+    "incorrect_answers": [
+      "Elves",
+      "The Earth",
+      "Animals"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The main protagonist of the fifth part of JoJo's Bizarre Adventure is which of the following?",
+    "correct_answer": "Giorno Giovanna",
+    "incorrect_answers": [
+      "Guido Mista",
+      "Jonathan Joestar",
+      "Joey JoJo"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Satella in \"Re:Zero\" is the witch of what?",
+    "correct_answer": "Envy",
+    "incorrect_answers": [
+      "Pride",
+      "Sloth",
+      "Wrath"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"Toriko\", which of the following Heavenly Kings has an enhanced sense of Hearing?",
+    "correct_answer": "Zebra",
+    "incorrect_answers": [
+      "Coco",
+      "Sunny",
+      "Toriko"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which animation studio produced \"Sword Art Online\"?",
+    "correct_answer": "A-1 Pictures",
+    "incorrect_answers": [
+      "Production I.G",
+      "Silver Link",
+      "Kyoto Animation"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many \"JoJos\" that are protagonists are there in the series \"Jojo's Bizarre Adventure\"?",
+    "correct_answer": "8+",
+    "incorrect_answers": [
+      "6+",
+      "4+",
+      "5+"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the final villain in the manga series \"Bleach\"?",
+    "correct_answer": "Yhwach",
+    "incorrect_answers": [
+      "Juha Bach",
+      "Yuhabah",
+      "Juhabach"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Krusty is the guild master of which guild in \"Log Horizon\"?",
+    "correct_answer": "D. D. D",
+    "incorrect_answers": [
+      "Silver Sword",
+      "West Wind Brigade",
+      "Oceanic Systems (Marine Agency)"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The name of the attack \"Kamehameha\" in Dragon Ball Z was named after a famous king of Hawaii.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the Director of the 1988 Anime film \"Grave of the Fireflies\"?",
+    "correct_answer": "Isao Takahata",
+    "incorrect_answers": [
+      "Hayao Miyazaki",
+      "Satoshi Kon",
+      "Sunao Katabuchi"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What animation studio produced \"Gurren Lagann\"?",
+    "correct_answer": "Gainax",
+    "incorrect_answers": [
+      "Kyoto Animation",
+      "Pierrot",
+      "A-1 Pictures"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Studio Ghibli is a Japanese animation studio responsible for the films \"Wolf Children\" and \"The Boy and the Beast\".",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the main heroine of the anime, Full Metal Panic!",
+    "correct_answer": "Kaname Chidori",
+    "incorrect_answers": [
+      "Teletha Testarossa",
+      "Melissa Mao",
+      "Kyoko Tokiwa"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The name of Junko Enoshima's imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
+    "correct_answer": "Mukuro Ikusaba",
+    "incorrect_answers": [
+      "Ryota Mitarai",
+      "Ultimate Imposter",
+      "Komaru Naegi"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What year was \"JoJo's Bizarre Adventure: Phantom Blood\" first released?",
+    "correct_answer": "1987",
+    "incorrect_answers": [
+      "2013",
+      "1983",
+      "1995"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Japanese music group was formed to produce theme music for the anime \"Guilty Crown\"?",
+    "correct_answer": "Egoist",
+    "incorrect_answers": [
+      "Goose house",
+      "Babymetal",
+      "Garnidelia"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"The Melancholy of Haruhi Suzumiya\" series, the SOS Brigade club leader is unknowingly treated as a(n) __ by her peers.",
+    "correct_answer": "God",
+    "incorrect_answers": [
+      "Alien",
+      "Time Traveler",
+      "Esper"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"Love Live: School Idol Project\" what pseudonym does Kotori Minami use in her job as a maid?",
+    "correct_answer": "Minalinsky",
+    "incorrect_answers": [
+      "Stanoytchev",
+      "Kuznetsov",
+      "Aqours"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of Ryūko Matoi's theme song in the anime Kill la Kill?",
+    "correct_answer": "Before My Body Is Dry",
+    "incorrect_answers": [
+      "Don't Lose Your Way",
+      "Till I Die",
+      "Suck Your Blood"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In 2013, virtual pop-star Hatsune Miku had a sponsorship with which pizza chain?",
+    "correct_answer": "Domino's",
+    "incorrect_answers": [
+      "Papa John's",
+      "Pizza Hut",
+      "Sabarro's"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the anime Seven Deadly Sins what is the name of one of the sins?",
+    "correct_answer": "Diane",
+    "incorrect_answers": [
+      "Sakura",
+      "Ayano",
+      "Sheska"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the ADV (English) Dub of the anime \"Ghost Stories\", which character is portrayed as a Pentacostal Christian?",
+    "correct_answer": "Momoko Koigakubo",
+    "incorrect_answers": [
+      "Hajime Aoyama",
+      "Satsuki Miyanoshita",
+      "Mio Itai"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The two main characters of \"No Game No Life\", Sora and Shiro, together go by what name?",
+    "correct_answer": "Blank",
+    "incorrect_answers": [
+      "Immanity",
+      "Disboard",
+      "Warbeasts"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the anime, \"Fullmetal Alchemist\", who is known as the 'Flame Alchemist'?",
+    "correct_answer": "Roy Mustang",
+    "incorrect_answers": [
+      "Edward Elric",
+      "Maes Hughes",
+      "Lin Yao"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In JoJo's Bizarre Adventure, which character is able to accelerate time?",
+    "correct_answer": "Enrico Pucci",
+    "incorrect_answers": [
+      "Jotaro Kujo",
+      "Jolyne Cujoh",
+      "Kujo Jotaro"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did \"Attack on Titan\" Season 2 begin airing?",
+    "correct_answer": "2017",
+    "incorrect_answers": [
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the device that allows for infinite energy in the anime \"Dimension W\"?",
+    "correct_answer": "Coils",
+    "incorrect_answers": [
+      "Wires",
+      "Collectors",
+      "Tesla"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following films was NOT directed by Hayao Miyazaki?",
+    "correct_answer": "Wolf Children",
+    "incorrect_answers": [
+      "Princess Mononoke",
+      "Spirited Away",
+      "Kiki's Delivery Service"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the anime, \"Super Sonico\", what is Super Sonico's favorite food?",
+    "correct_answer": "Macroons",
+    "incorrect_answers": [
+      "Ice Cream",
+      "Pizza",
+      "Chips"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the 9th Pokemon movie, who is the Prince of the Sea?",
+    "correct_answer": "Manaphy",
+    "incorrect_answers": [
+      "Ash",
+      "May",
+      "Phantom"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"Inuyasha\", what are the heros are looking to collect?",
+    "correct_answer": "Jewel Shards",
+    "incorrect_answers": [
+      "Dragon Balls",
+      "Rave Stones",
+      "Sacred Stones"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the \"Kagerou Daze\" series, Shintaro Kisaragi is prominently shown with the color red.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which animation studio animated \"Hidamari Sketch\"?",
+    "correct_answer": "Shaft",
+    "incorrect_answers": [
+      "Trigger",
+      "Kyoto Animation",
+      "Production I.G"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of the following countries does \"JoJo's Bizarre Adventure: Stardust Crusaders\" not take place in?",
+    "correct_answer": "Philippines",
+    "incorrect_answers": [
+      "India",
+      "Pakistan",
+      "Egypt"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In \"To Love-Ru\", who is the first to hear of Yami's past from her?",
+    "correct_answer": "Rito",
+    "incorrect_answers": [
+      "Mikan",
+      "Lala",
+      "Haruna"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Kirito and Asuna are main characters from which anime?",
+    "correct_answer": "Sword Art Online",
+    "incorrect_answers": [
+      "One Piece",
+      "Death Note",
+      "Fairy Tail"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which song was the callsign for Stefan Verdemann's KWFM radio station in Urasawa Naoki's \"Monster\"?",
+    "correct_answer": "Over the Rainbow",
+    "incorrect_answers": [
+      "What a Wonderful World",
+      "When You Wish Upon A Star",
+      "Singing In The Rain"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the anime \"My Hero Academia\", which character is shown with the ability to manipulate gravity?",
+    "correct_answer": "Uraraka",
+    "incorrect_answers": [
+      "Bakugo",
+      "Deku",
+      "Asui "
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the \"To Love-Ru\" series, how many Trans-weapons were created?",
+    "correct_answer": "3",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "4"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which animation studio animated \"Psycho Pass\"?",
+    "correct_answer": "Production I.G",
+    "incorrect_answers": [
+      "Kyoto Animation",
+      "Shaft",
+      "Trigger"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What sport is being played in the Anime Eyeshield 21?",
+    "correct_answer": "American Football",
+    "incorrect_answers": [
+      "Baseball",
+      "Football",
+      "Basketball"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of these names are not a character of JoJo's Bizarre Adventure?",
+    "correct_answer": "JoJo Kikasu",
+    "incorrect_answers": [
+      "Jean-Pierre Polnareff",
+      "George Joestar",
+      "Risotto Nero"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the last name of Edward and Alphonse in the Fullmetal Alchemist series.",
+    "correct_answer": "Elric",
+    "incorrect_answers": [
+      "Ellis",
+      "Eliek",
+      "Elwood"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which animation studio produced the anime adaptation of \"xxxHolic\"?",
+    "correct_answer": "Production I.G",
+    "incorrect_answers": [
+      "Sunrise",
+      "Xebec",
+      "Kyoto Animation"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year did \"Attack on Titan\" first air?",
+    "correct_answer": "2013",
+    "incorrect_answers": [
+      "2014",
+      "2012",
+      "2015"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of JoJo's Bizarre Adventure Part 5?",
+    "correct_answer": "Vento Aureo",
+    "incorrect_answers": [
+      "Vento Oreo",
+      "Vanto Aureo",
+      "Vento Eureo"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Throughout the entirety of \"Dragon Ball Z\", Goku only kills two characters: a miniboss named Yakon and Kid Buu.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was studio Trigger's first original long-form animated series for television?",
+    "correct_answer": "Kill la Kill",
+    "incorrect_answers": [
+      "Kiznaiver",
+      "Inferno Cop",
+      "Gurren Lagann"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Chobits, Hideki found Chii in his apartment.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the \"Sailor Moon\" series, what is Sailor Jupiter's civilian name?",
+    "correct_answer": "Makoto Kino",
+    "incorrect_answers": [
+      "Minako Aino",
+      "Usagi Tsukino",
+      "Rei Hino"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"Little Witch Academia\", what is Shiny Chariot's alias at Luna Nova Academy?",
+    "correct_answer": "Ursula Callistis",
+    "incorrect_answers": [
+      "Croix Meridies",
+      "Miranda Holbrook",
+      "Anne Finnelan"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the age of Ash Ketchum in Pokemon when he starts his journey?",
+    "correct_answer": "10",
+    "incorrect_answers": [
+      "11",
+      "12",
+      "9"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Full Metal Panic!, Whispered are those who are capable of creating Black Technology.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the \"Melancholy of Haruhi Suzumiya\" series, the narrator goes by the nickname Kyon.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the \"Toaru Majutsu no Index\" anime, Touma Kamijou is a level 0 esper that has the ability to do what?",
+    "correct_answer": "Dispell any esper or magical powers",
+    "incorrect_answers": [
+      "Teleport",
+      "Make telepathic communications",
+      "Create electricity from his own body"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the anime, Full Metal Panic!, who is Kaname's best friend?",
+    "correct_answer": "Kyoko Tokiwa",
+    "incorrect_answers": [
+      "Melissa Mao",
+      "Ren Mikihara",
+      "Teletha \"Tessa\" Testarossa"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Pokémon Chronicles, why was Misty afraid of Gyarados?",
+    "correct_answer": "She crawled into it's mouth as a baby.",
+    "incorrect_answers": [
+      "She found it scary.",
+      "She was badly injured from it.",
+      "It is part Bug."
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of Funny Valentine's stand in Jojo's Bizarre Adventure Part 7, Steel Ball Run?",
+    "correct_answer": "Dirty Deeds Done Dirt Cheap",
+    "incorrect_answers": [
+      "Filthy Acts Done For A Reasonable Price",
+      "Civil War",
+      "God Bless The USA"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"Hunter x Hunter\", which of the following is NOT a type of Nen aura?",
+    "correct_answer": "Restoration",
+    "incorrect_answers": [
+      "Emission",
+      "Transmutation",
+      "Specialization"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the Naruto manga, what is the last name of Tsunade?",
+    "correct_answer": "Senju",
+    "incorrect_answers": [
+      "Haruno",
+      "Uzumaki",
+      "Yamanaka"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the 2011 TV anime series, \"THE iDOLM@STER\", what was the name of Iori's stuffed toy bunny?",
+    "correct_answer": "Charles",
+    "incorrect_answers": [
+      "Bubsy",
+      "Kero",
+      "Usagi"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the reason for the banning of episode 35 of the \"Pokémon Original Series\" Anime?",
+    "correct_answer": "Gun Usage",
+    "incorrect_answers": [
+      "Flashing Images",
+      "Jynx",
+      "Strong Violence"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the first episode of Yu-Gi-Oh: Duel Monsters, what book is Seto Kaiba seen reading at Domino High School?",
+    "correct_answer": "Thus Spoke Zarathustra",
+    "incorrect_answers": [
+      "Beyond Good and Evil",
+      "The Republic",
+      "Meditations"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The protagonist in \"Humanity Has Declined\" has no discernable name and is simply referred to as 'I' for most of the series.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Aoi Miyamori is the production manager of what anime in \"Shirobako\"?",
+    "correct_answer": "The Third Aerial Girls Squad",
+    "incorrect_answers": [
+      "Exodus!",
+      "Andes Chucky",
+      "Angel Beats!"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What's the English Dub Name of \"Smile Precure\"?",
+    "correct_answer": "Glitter Force",
+    "incorrect_answers": [
+      "Sparkle Girls",
+      "Fairy Tale Patrol",
+      "Power Princesses"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the last line muttered in the anime film \"The End of Evangelion\"?",
+    "correct_answer": "\"How disgusting.\"",
+    "incorrect_answers": [
+      "\"Idiot, I won't let you kill me!\"",
+      "\"Nothing.\"",
+      "\"Goddammit, Shinji.\""
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Kiznaiver is an adaptation of a manga.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "On what medium was \"Clannad\" first created?",
+    "correct_answer": "Visual novel",
+    "incorrect_answers": [
+      "Anime",
+      "Manga",
+      "Light novel"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which part from the JoJo's Bizarre Adventure manga is about a horse race across America?",
+    "correct_answer": "Part 7: Steel Ball Run",
+    "incorrect_answers": [
+      "Part 6: Stone Ocean",
+      "Part 3: Stardust Crusaders",
+      "Part 5: Golden Wind"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the school in the anime and manga \"Gosick\"?",
+    "correct_answer": "St. Marguerite",
+    "incorrect_answers": [
+      "St. Augustine",
+      "St. Mary",
+      "St. Bernadette"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Haikyuu!!, who is not a member of Karasuno VBC?",
+    "correct_answer": "Shigeru Yahaba",
+    "incorrect_answers": [
+      "Tadashi Yamaguchi",
+      "Hisashi Kinoshita",
+      "Kazuhito Narita"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the author of the manga series \"Astro Boy\"?",
+    "correct_answer": "Osamu Tezuka",
+    "incorrect_answers": [
+      "Mitsuteri Yokoyama",
+      "Takao Saito",
+      "Yoshihiro Tatsumi"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the infamous pachinko machine from \"Kaiji\"?",
+    "correct_answer": "The Bog",
+    "incorrect_answers": [
+      "The Devil",
+      "The Undefeated",
+      "The Dragon"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What studio animated Ouran High School Host Club?",
+    "correct_answer": "Bones",
+    "incorrect_answers": [
+      "Production I.G",
+      "Kyoto Animation",
+      "xebec"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"Hunter x Hunter\", what are members in Killua's family known for being?",
+    "correct_answer": "Assassins",
+    "incorrect_answers": [
+      "Bandits",
+      "Hunters",
+      "Ninjas"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of the following anime of the mecha genre began airing in 1982?",
+    "correct_answer": "The Super Dimension Fortress Macross",
+    "incorrect_answers": [
+      "Mobile Suit Gundam",
+      "Armored Trooper VOTOMS",
+      "Neon Genesis Evangelion"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"Fairy Tail\", what is the nickname of Natsu Dragneel?",
+    "correct_answer": "The Salamander",
+    "incorrect_answers": [
+      "The Dragon Slayer",
+      "The Dragon",
+      "The Demon"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the Author of the manga Monster Hunter Orage?",
+    "correct_answer": "Hiro Mashima",
+    "incorrect_answers": [
+      "Shin Yamamoto",
+      "Keiichi Hikami",
+      "Hirohiko Araki"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In \"Puella Magi Madoka Magica\", what is the first name of Madoka's younger brother?",
+    "correct_answer": "Tatsuya",
+    "incorrect_answers": [
+      "Montoya",
+      "Tomohisa",
+      "Minato"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which anime did Seiji Kishi NOT direct?",
+    "correct_answer": "Another",
+    "incorrect_answers": [
+      "Humanity Has Declined",
+      "Assassination Classroom",
+      "Danganronpa: The Animation"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does the character Dragowizard, Qinus Axia's from the anime \"Buddyfight\" differ between the Japanese and English dubs?",
+    "correct_answer": "Different Gender",
+    "incorrect_answers": [
+      "Different Body Proportions",
+      "Different Backstory",
+      "Different Appearance"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Pokémon and it's evolutions were banned from appearing in a main role after the Episode 38 Incident?",
+    "correct_answer": "The Porygon Line",
+    "incorrect_answers": [
+      "The Pikachu Line",
+      "The Elekid Line",
+      "The Magby Line"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the main character of the anime \"One-Punch Man\"?",
+    "correct_answer": "Saitama",
+    "incorrect_answers": [
+      "Genos",
+      "Sonic",
+      "King"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"One Piece\", what does \"the Pirate King\" mean to the captain of the Straw Hat Pirates?",
+    "correct_answer": "Freedom",
+    "incorrect_answers": [
+      "Promise",
+      "Adventure",
+      "Friendship"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the Overlord Anime who was Cocytus made by?",
+    "correct_answer": "Warrior Takemikazuchi",
+    "incorrect_answers": [
+      "Peroroncino",
+      "Ulbert Alain Odle",
+      "Bukubukuchagama"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the horror manga artist who made Uzumaki?",
+    "correct_answer": "Junji Ito",
+    "incorrect_answers": [
+      "Kazuo Umezu",
+      "Shintaro Kago",
+      "Sui Ishida"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of these is not a world in the anime \"Buddyfight\"?",
+    "correct_answer": "Ancient Dragon World",
+    "incorrect_answers": [
+      "Dragon World",
+      "Star Dragon World",
+      "Darkness Dragon World"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the colossal titan in \"Attack On Titan\"?",
+    "correct_answer": "Bertolt Hoover",
+    "incorrect_answers": [
+      "Reiner",
+      "Eren",
+      "Sasha"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What year did \"Bishoujo Senshi Sailor Moon\" air in Japan?",
+    "correct_answer": "1992",
+    "incorrect_answers": [
+      "1989",
+      "1990",
+      "1994"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"To Love-Ru\", Ren and Run are from what planet?",
+    "correct_answer": "Memorze",
+    "incorrect_answers": [
+      "Deviluke",
+      "Mistletoe",
+      "Okiwana"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the protagonist of the 2017 anime \"Land of the Lustrous\"?",
+    "correct_answer": "Phosphophyllite",
+    "incorrect_answers": [
+      "Watermelon Tourmaline",
+      "Cinnabar",
+      "Padparadscha"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What color is Ryūko Matoi's half of the Scissor Blade in the anime Kill la KIll?",
+    "correct_answer": "Red",
+    "incorrect_answers": [
+      "Green",
+      "Blue",
+      "Purple"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the 2012 animated film \"Wolf Children\", what are the names of the wolf children?",
+    "correct_answer": "Ame & Yuki",
+    "incorrect_answers": [
+      "Hana & Yuki",
+      "Ame & Hana",
+      "Chuck & Anna"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which person from \"JoJo's Bizarre Adventure\" does NOT house a reference to a band, artist, or song earlier than 1980?",
+    "correct_answer": "Giorno Giovanna",
+    "incorrect_answers": [
+      "Josuke Higashikata",
+      "Jolyne Cujoh",
+      "Johnny Joestar"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the main character in One Piece?",
+    "correct_answer": "Luffy",
+    "incorrect_answers": [
+      "Shanks",
+      "Zoro",
+      "Smoker"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Pokémon, Ash's Pikachu refuses to go into a pokeball.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"Future Diary\", what is the name of Yuno Gasai's Phone Diary?",
+    "correct_answer": "Yukiteru Diary",
+    "incorrect_answers": [
+      "Murder Diary",
+      "Escape Diary ",
+      "Justice Diary "
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"JoJo's Bizarre Adventure: Stardust Crusaders\", what is the last name of the protagonist Jotaro?",
+    "correct_answer": "Kujo",
+    "incorrect_answers": [
+      "Cujoh",
+      "Joestar",
+      "Higashikata"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"Shakugan no Shana\" what was the Shana usually referred as?",
+    "correct_answer": "Flame-Haired Burning-Eyed Hunter",
+    "incorrect_answers": [
+      "Flame Haze",
+      "Flame-Haired Burning-Eyed Haze",
+      "Shana"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which animation studio produced \"Log Horizon\"?",
+    "correct_answer": "Satelite",
+    "incorrect_answers": [
+      "Sunrise",
+      "Xebec",
+      "Production I.G"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is One Punch Man voiced by in the Japanese version.",
+    "correct_answer": "Makoto Furukawa",
+    "incorrect_answers": [
+      "Zach Aguilar",
+      "Kaito Ishikawa",
+      "Max Mittelman "
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In JoJo's Bizarre Adventure, who says \"Yare yare daze\"?",
+    "correct_answer": "Jotaro Kujo",
+    "incorrect_answers": [
+      "Joseph Joestar",
+      "Jolyne Cujoh",
+      "Koichi Hirose"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The \"To Love-Ru\" Manga was started in what year?",
+    "correct_answer": "2006",
+    "incorrect_answers": [
+      "2007",
+      "2004",
+      "2005"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In \"One Piece\", who is the girl who overcame her enslaved past and became an agent of an army to fight the corrupt government?",
+    "correct_answer": "Koala",
+    "incorrect_answers": [
+      "Boa Hancock",
+      "Nico Robin",
+      "Emporio Ivankov "
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of the following manga have the most tankouban volumes?",
+    "correct_answer": "Golgo 13",
+    "incorrect_answers": [
+      "JoJo's Bizarre Adventure",
+      "Detective Conan",
+      "One Piece"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"To Love-Ru: Darkness\", Yami reveals her real name is Eve.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which anime heavily features music from the genre \"Eurobeat\"?",
+    "correct_answer": "Initial D",
+    "incorrect_answers": [
+      "Wangan Midnight",
+      "Kino no Tabi",
+      "Cowboy Bebop"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"One Piece\", who confirms the existence of the legendary treasure, One Piece?",
+    "correct_answer": "Edward \"Whitebeard\" Newgate",
+    "incorrect_answers": [
+      "Former Marine Fleet Admiral Sengoku",
+      "Pirate King Gol D Roger",
+      "Silvers Rayleigh"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In \"Highschool DxD\", what is the name of the item some humans are born with?",
+    "correct_answer": "Sacred Gear",
+    "incorrect_answers": [
+      "Imperial Arm",
+      "Hallowed Relic",
+      "Blessed Artifact"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Druid is a mage class in \"Log Horizon\".",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was a voice actor for the English dubbing of HOWL'S MOVING CASTLE (2004)?",
+    "correct_answer": "Christian Bale",
+    "incorrect_answers": [
+      "Matt Damon",
+      "Joseph Gordon-Levitt",
+      "Willem Dafoe"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the first Legendary Pokemon to be defeated by Ash Ketchum in the Pokémon anime?",
+    "correct_answer": "Articuno",
+    "incorrect_answers": [
+      "Darkrai",
+      "Latios",
+      "Regice"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the armored titan in \"Attack On Titan\"?",
+    "correct_answer": "Reiner Braun",
+    "incorrect_answers": [
+      "Armin Arlelt",
+      "Mikasa Ackermann",
+      "Eren Jaeger"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who voices the character \"Reigen\"  in the English dub of \"Mob Psycho 100\"?",
+    "correct_answer": "Chris Niosi",
+    "incorrect_answers": [
+      "Max Mittelman",
+      "Kyle McCarley",
+      "Casey Mongillo"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which animation studio animated \"To Love-Ru\"?",
+    "correct_answer": "Xebec",
+    "incorrect_answers": [
+      "Trigger",
+      "Sunrise",
+      "Kyoto Animation"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the anime Noragami who is one of the main protagonists?",
+    "correct_answer": "Yukine",
+    "incorrect_answers": [
+      "Karuha",
+      "Mineha",
+      "Mayu"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The main antagonist of the second part of JoJo's Bizarre Adventure is which of the following?",
+    "correct_answer": "Kars",
+    "incorrect_answers": [
+      "Erina Joestar",
+      "Santana",
+      "Wired Beck"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the creator of the manga series \"One Piece\"?",
+    "correct_answer": "Eiichiro Oda",
+    "incorrect_answers": [
+      "Yoshihiro Togashi",
+      "Hayao Miyazaki",
+      "Masashi Kishimoto"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "No Game No Life first aired in 2014.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which studio made Cowboy Bebop?",
+    "correct_answer": "Sunrise",
+    "incorrect_answers": [
+      "Bones",
+      "Madhouse",
+      "Pierriot"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did the anime \"Himouto! Umaru-chan\" air?",
+    "correct_answer": "2015",
+    "incorrect_answers": [
+      "2014",
+      "2012",
+      "2013"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the stands from \"JoJo's Bizarre Adventure\" mimics the likeness of a tomato?",
+    "correct_answer": "Pearl Jam",
+    "incorrect_answers": [
+      "Red Hot Chili Pepper",
+      "Cream Starter",
+      "Nut King Call"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"Black Lagoon\", what colour is Rock's tie?",
+    "correct_answer": "Teal",
+    "incorrect_answers": [
+      "Crimson",
+      "Dark Brown",
+      "Black"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following originated as a manga?",
+    "correct_answer": "Akira",
+    "incorrect_answers": [
+      "Cowboy Bebop",
+      "High School DxD",
+      "Gurren Lagann"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the corgi in Cowboy Bebop?",
+    "correct_answer": "Einstein",
+    "incorrect_answers": [
+      "Edward",
+      "Rocket",
+      "Joel"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In what year did the manga \"Ping Pong\" begin serialization?",
+    "correct_answer": "1996",
+    "incorrect_answers": [
+      "2014",
+      "2010",
+      "2003"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio animated Afro Samurai?",
+    "correct_answer": "Gonzo",
+    "incorrect_answers": [
+      "Kyoto Animation",
+      "xebec",
+      "Production I.G"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Clefairy was intended to be Ash's starting Pokémon in the pilot episode of the cartoon.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which studio animated Soul Eater?",
+    "correct_answer": "Bones",
+    "incorrect_answers": [
+      "Kyoto Animation",
+      "xebec",
+      "Production I.G"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The character Plum from \"No Game No Life\" is of what race?",
+    "correct_answer": "Dhampir",
+    "incorrect_answers": [
+      "Flügel",
+      "Imanity",
+      "Seiren"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In \"Jewelpet Sunshine\", what is the song that plays when Kanon and her friends bust out of prison?",
+    "correct_answer": "I Don't Want to Miss a Thing",
+    "incorrect_answers": [
+      "Eye Of The Tiger",
+      "Born to be Wild",
+      "Ruby Ring"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year does Part 7 of \"JoJo's Bizarre Adventure\" take place in?",
+    "correct_answer": "1890",
+    "incorrect_answers": [
+      "1888",
+      "1999",
+      "2003"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the \"To Love-Ru\" series, Golden Darkness is sent to kill Lala Deviluke.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What name is the main character Chihiro given in the 2001 movie \"Spirited Away\"?",
+    "correct_answer": "Sen (Thousand)",
+    "incorrect_answers": [
+      "Hyaku (Hundred)",
+      "Ichiman (Ten thousand)",
+      "Juu (Ten)"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which band name isn't a Stand in \"JoJo's Bizarre Adventure\"?",
+    "correct_answer": "AC/DC",
+    "incorrect_answers": [
+      "Green Day",
+      "Survivor",
+      "Red Hot Chili Peppers"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which one of these characters is from \"Legendz : Tale of the Dragon Kings\"?",
+    "correct_answer": "Shiron",
+    "incorrect_answers": [
+      "Jack",
+      "Axia",
+      "Drum"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In \"Highschool DxD\", Koneko Toujou is from what race?",
+    "correct_answer": "Nekomata",
+    "incorrect_answers": [
+      "Kitsune",
+      "Human",
+      "Kappa"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the anime Initial D, how does Takumi Fujiwara describe a drift?",
+    "correct_answer": "'. . . the front tires slide so the car won't face the inside'",
+    "incorrect_answers": [
+      "'. . . the wheels lose traction, making the car slide sideways'",
+      "'. . . the car oversteers through a curve, causing it to turn faster'",
+      "'. . . you turn a lot'"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the anime Assassination Classroom what is the class that Korosensei teaches?",
+    "correct_answer": "Class 3-E",
+    "incorrect_answers": [
+      "Class 3-A",
+      "Class 3-B",
+      "Class 3-D"
+    ],
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "difficulty": "medium"
+  }
+]
